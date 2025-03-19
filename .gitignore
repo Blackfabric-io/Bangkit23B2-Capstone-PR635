@@ -25,9 +25,11 @@ Bangkit-23-Capstone-PR635-NutiGenius.md
 *.apk
 *.aab
 *.ap_
+*.aar
 *.dex
 .gradle/
 /local.properties
+*/local.properties
 /captures/
 .externalNativeBuild/
 .cxx/
@@ -55,6 +57,34 @@ android/*/debug/
 android/app/debug/output-metadata.json
 generated/
 jacoco.exec
+# Android Studio files
+*/.idea/caches
+*/.idea/libraries
+*/.idea/modules.xml
+*/.idea/workspace.xml
+*/.idea/navEditor.xml
+*/.idea/assetWizardSettings.xml
+*/.idea/jarRepositories.xml
+*/.idea/compiler.xml
+*/.idea/misc.xml
+*/.idea/gradle.xml
+*/.idea/deploymentTargetDropDown.xml
+*/.idea/.name
+*/.idea/kotlinScripting.xml
+*/.idea/kotlinc.xml
+*/vcs.xml
+*/misc.xml
+*/deploymentTargetDropDown.xml
+*/render.experimental.xml
+
+# Generated Android files
+bin/
+gen/
+out/
+
+# Large binary assets
+*/app/src/main/assets/ml/models/*.zip
+*/app/src/main/assets/ml/models/*.tar.gz
 
 # Python
 __pycache__/
@@ -128,6 +158,8 @@ nbproject/
 
 # OS specific
 .DS_Store
+.DS_Store?
+._*
 Thumbs.db
 .Spotlight-V100
 .Trashes
@@ -140,3 +172,13 @@ Desktop.ini
 service-account.json
 .env.yaml
 .env.local
+
+# Version control related
+freeline.py
+freeline/
+freeline_project_description.json
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
