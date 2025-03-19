@@ -1,0 +1,74 @@
+<svg width="400" height="1000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 1000">
+  <!-- Background -->
+  <rect width="400" height="1000" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="350" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">🔖</text>
+  <text x="380" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">⋮</text>
+  
+  <!-- Article Title -->
+  <text x="20" y="120" font-family="Nunito, sans-serif" font-size="20" font-weight="600" fill="#1B5E20">Nutrition Needs: Ages 2-3</text>
+  
+  <!-- Author Info -->
+  <text x="20" y="145" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">By Dr. Sarah Johnson • May 10, 2023</text>
+  
+  <!-- Article Image -->
+  <rect x="20" y="165" width="360" height="180" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="200" y="255" font-family="Nunito, sans-serif" font-size="40" text-anchor="middle" fill="#1B5E20">🍎</text>
+  
+  <!-- Article Content -->
+  <text x="20" y="375" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">The toddler years (ages 2-3) are a critical</text>
+  <text x="20" y="395" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">period for nutritional development. During</text>
+  <text x="20" y="415" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">this time, children are growing rapidly and</text>
+  <text x="20" y="435" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">developing eating habits that may last a</text>
+  <text x="20" y="455" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">lifetime.</text>
+  
+  <text x="20" y="495" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Key Nutrients for Toddlers</text>
+  
+  <text x="20" y="525" font-family="Open Sans, sans-serif" font-size="14" font-weight="600" fill="#424242">Protein:</text>
+  <text x="75" y="525" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Essential for growth and</text>
+  <text x="20" y="545" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">muscle development. Aim for 2-3 servings</text>
+  <text x="20" y="565" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">daily from sources like:</text>
+  
+  <text x="20" y="595" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Lean meats and poultry</text>
+  <text x="20" y="615" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Fish</text>
+  <text x="20" y="635" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Eggs</text>
+  <text x="20" y="655" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Dairy products</text>
+  <text x="20" y="675" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Legumes and tofu</text>
+  
+  <text x="20" y="705" font-family="Open Sans, sans-serif" font-size="14" font-weight="600" fill="#424242">Calcium:</text>
+  <text x="85" y="705" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Critical for bone development.</text>
+  <text x="20" y="725" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Toddlers need 700mg daily from:</text>
+  
+  <text x="20" y="755" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Milk (whole milk until age 2)</text>
+  <text x="20" y="775" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Yogurt</text>
+  <text x="20" y="795" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Cheese</text>
+  <text x="20" y="815" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Fortified non-dairy alternatives</text>
+  
+  <text x="200" y="855" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">[Continue reading...]</text>
+  
+  <!-- Take Action Section -->
+  <rect x="20" y="875" width="360" height="80" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="900" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Take Action</text>
+  
+  <rect x="35" y="915" width="150" height="30" rx="15" ry="15" fill="#2E7D32"/>
+  <text x="110" y="935" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="white">Create Meal Plan</text>
+  
+  <rect x="195" y="915" width="150" height="30" rx="15" ry="15" fill="#2E7D32"/>
+  <text x="270" y="935" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="white">Track Nutrients</text>
+  
+  <!-- Related Articles Section -->
+  <rect x="20" y="965" width="360" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="990" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Related Articles</text>
+  
+  <text x="35" y="1020" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Meal Planning for Toddlers</text>
+  <text x="35" y="1045" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Iron-Rich Foods for Toddlers</text>
+  <text x="35" y="1070" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Managing Picky Eating</text>
+</svg>

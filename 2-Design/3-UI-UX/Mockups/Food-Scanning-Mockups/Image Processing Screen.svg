@@ -1,0 +1,30 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background -->
+  <rect width="400" height="800" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- Captured Image Display -->
+  <rect x="20" y="100" width="360" height="300" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="200" y="250" font-family="Nunito, sans-serif" font-size="60" text-anchor="middle" fill="#1B5E20">🍎</text>
+  
+  <!-- Processing Status -->
+  <text x="200" y="450" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="#1B5E20">Analyzing food...</text>
+  
+  <!-- Progress Indicator -->
+  <rect x="50" y="480" width="300" height="10" rx="5" ry="5" fill="#F5F5F5"/>
+  <rect x="50" y="480" width="180" height="10" rx="5" ry="5" fill="#2E7D32">
+    <animate attributeName="width" from="0" to="300" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Processing Details -->
+  <text x="200" y="530" font-family="Open Sans, sans-serif" font-size="14" text-anchor="middle" fill="#424242">Identifying ingredients and calculating</text>
+  <text x="200" y="555" font-family="Open Sans, sans-serif" font-size="14" text-anchor="middle" fill="#424242">nutritional information</text>
+  
+  <!-- Cancel Button -->
+  <rect x="150" y="600" width="100" height="40" rx="20" ry="20" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="200" y="625" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">Cancel</text>
+</svg>

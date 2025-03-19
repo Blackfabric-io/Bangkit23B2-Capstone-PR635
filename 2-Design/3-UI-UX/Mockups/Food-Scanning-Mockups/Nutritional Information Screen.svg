@@ -1,0 +1,49 @@
+<svg width="400" height="900" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 900">
+  <!-- Background -->
+  <rect width="400" height="900" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Nutrition Information</text>
+  
+  <!-- Food Title and Portion -->
+  <text x="20" y="120" font-family="Nunito, sans-serif" font-size="18" font-weight="600" fill="#1B5E20">Apple, Red Delicious</text>
+  <text x="20" y="145" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">1 medium apple (182g)</text>
+  
+  <!-- Food Image -->
+  <rect x="20" y="160" width="360" height="150" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="200" y="235" font-family="Nunito, sans-serif" font-size="60" text-anchor="middle" fill="#1B5E20">🍎</text>
+  
+  <!-- Nutrition Summary -->
+  <rect x="20" y="330" width="360" height="240" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="355" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Nutrition Summary</text>
+  
+  <text x="35" y="385" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Calories: 95 kcal</text>
+  <text x="35" y="415" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Carbohydrates: 25g (8% daily value)</text>
+  <text x="35" y="445" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Fiber: 4.4g (18% daily value)</text>
+  <text x="35" y="475" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Sugar: 19g</text>
+  <text x="35" y="505" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Protein: 0.5g (1% daily value)</text>
+  <text x="35" y="535" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Fat: 0.3g (0% daily value)</text>
+  
+  <text x="200" y="565" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">View All Nutrients</text>
+  
+  <!-- Dietary Analysis -->
+  <rect x="20" y="590" width="360" height="170" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="615" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Dietary Analysis</text>
+  
+  <text x="35" y="645" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">✓ Good source of fiber</text>
+  <text x="35" y="675" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">✓ Low in fat</text>
+  <text x="35" y="705" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">⚠ High in natural sugars</text>
+  
+  <text x="200" y="735" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">View Full Analysis</text>
+  
+  <!-- Add to Meal Log Button -->
+  <rect x="20" y="780" width="360" height="48" rx="8" ry="8" fill="#2E7D32"/>
+  <text x="200" y="810" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Add to Meal Log</text>
+</svg>

@@ -1,0 +1,91 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background -->
+  <rect width="400" height="800" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Scan History</text>
+  
+  <!-- Filter Options -->
+  <text x="20" y="120" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Filter:</text>
+  
+  <circle cx="80" cy="120" r="8" fill="#2E7D32"/>
+  <circle cx="80" cy="120" r="4" fill="white"/>
+  <text x="95" y="125" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">All</text>
+  
+  <circle cx="140" cy="120" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="155" y="125" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">This Week</text>
+  
+  <circle cx="240" cy="120" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="255" y="125" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">This Month</text>
+  
+  <!-- Today Section -->
+  <text x="20" y="160" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Today</text>
+  
+  <!-- Apple Entry -->
+  <rect x="20" y="170" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="185" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="215" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🍎</text>
+  <text x="95" y="195" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Apple, Red Delicious</text>
+  <text x="95" y="215" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">1 medium apple</text>
+  <text x="95" y="235" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Lunch - 12:30 PM</text>
+  <text x="320" y="215" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="end" fill="#2E7D32">View Details</text>
+  
+  <!-- Yogurt Entry -->
+  <rect x="20" y="280" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="295" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="325" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🥛</text>
+  <text x="95" y="305" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Yogurt, Greek, Plain</text>
+  <text x="95" y="325" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">1 cup</text>
+  <text x="95" y="345" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Breakfast - 8:15 AM</text>
+  <text x="320" y="325" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="end" fill="#2E7D32">View Details</text>
+  
+  <!-- Yesterday Section -->
+  <text x="20" y="410" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Yesterday</text>
+  
+  <!-- Rice Entry -->
+  <rect x="20" y="420" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="435" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="465" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🍚</text>
+  <text x="95" y="445" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Rice, White, Cooked</text>
+  <text x="95" y="465" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">1 cup</text>
+  <text x="95" y="485" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Dinner - 7:00 PM</text>
+  <text x="320" y="465" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="end" fill="#2E7D32">View Details</text>
+  
+  <!-- Chicken Entry -->
+  <rect x="20" y="530" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="545" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="575" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🍗</text>
+  <text x="95" y="555" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Chicken Breast, Grilled</text>
+  <text x="95" y="575" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">3 oz</text>
+  <text x="95" y="595" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Dinner - 7:00 PM</text>
+  <text x="320" y="575" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="end" fill="#2E7D32">View Details</text>
+  
+  <!-- Scan New Food Button -->
+  <rect x="20" y="650" width="360" height="48" rx="8" ry="8" fill="#2E7D32"/>
+  <text x="200" y="680" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Scan New Food</text>
+  
+  <!-- Bottom Navigation Bar -->
+  <rect x="0" y="750" width="400" height="50" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <circle cx="50" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="50" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">🏠</text>
+  
+  <circle cx="130" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="130" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">📏</text>
+  
+  <circle cx="210" cy="775" r="18" fill="#2E7D32"/>
+  <text x="210" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="white">📷</text>
+  
+  <circle cx="290" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="290" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">📚</text>
+  
+  <circle cx="370" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="370" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">👨‍⚕️</text>
+</svg>

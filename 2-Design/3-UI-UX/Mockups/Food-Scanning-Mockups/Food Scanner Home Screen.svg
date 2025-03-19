@@ -1,0 +1,81 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background -->
+  <rect width="400" height="800" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">≡</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Food Scanner</text>
+  <circle cx="370" cy="60" r="15" fill="white" fill-opacity="0.2"/>
+  <text x="370" y="65" font-family="Nunito, sans-serif" font-size="16" text-anchor="middle" fill="white">👤</text>
+  
+  <!-- Camera Preview Section -->
+  <rect x="20" y="110" width="360" height="260" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="135" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Scan food to track nutrition</text>
+  
+  <!-- Camera Preview -->
+  <rect x="35" y="150" width="330" height="170" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="200" y="235" font-family="Nunito, sans-serif" font-size="40" text-anchor="middle" fill="#757575">📷</text>
+  
+  <!-- Scan Button -->
+  <rect x="35" y="330" width="330" height="40" rx="20" ry="20" fill="#2E7D32"/>
+  <text x="200" y="355" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Tap to Scan Food</text>
+  
+  <!-- Manual Search Option -->
+  <rect x="20" y="380" width="360" height="50" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="410" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Can't scan?</text>
+  <text x="200" y="410" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#2E7D32">Search Food Database</text>
+  
+  <!-- Recent Scans Section -->
+  <rect x="20" y="440" width="360" height="170" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="465" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Recent Scans</text>
+  
+  <!-- Recent Scan Items -->
+  <rect x="35" y="480" width="90" height="90" rx="8" ry="8" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="80" y="525" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🍎</text>
+  <text x="80" y="550" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Apple</text>
+  <text x="80" y="565" font-family="Open Sans, sans-serif" font-size="10" text-anchor="middle" fill="#757575">Today</text>
+  
+  <rect x="135" y="480" width="90" height="90" rx="8" ry="8" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="180" y="525" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🍚</text>
+  <text x="180" y="550" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Rice</text>
+  <text x="180" y="565" font-family="Open Sans, sans-serif" font-size="10" text-anchor="middle" fill="#757575">Yesterday</text>
+  
+  <rect x="235" y="480" width="90" height="90" rx="8" ry="8" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="280" y="525" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🍗</text>
+  <text x="280" y="550" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Chicken</text>
+  <text x="280" y="565" font-family="Open Sans, sans-serif" font-size="10" text-anchor="middle" fill="#757575">May 10</text>
+  
+  <text x="340" y="590" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="end" fill="#2E7D32">View All History →</text>
+  
+  <!-- Scanning Tips Section -->
+  <rect x="20" y="620" width="360" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="645" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Scanning Tips</text>
+  <text x="35" y="670" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Good lighting improves accuracy</text>
+  <text x="35" y="690" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Center the food in frame</text>
+  <text x="35" y="710" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Scan one food item at a time</text>
+  <text x="35" y="730" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">• Hold camera 6-12 inches from food</text>
+  
+  <!-- Bottom Navigation Bar -->
+  <rect x="0" y="750" width="400" height="50" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <circle cx="50" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="50" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">🏠</text>
+  
+  <circle cx="130" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="130" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">📏</text>
+  
+  <circle cx="210" cy="775" r="18" fill="#2E7D32"/>
+  <text x="210" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="white">📷</text>
+  
+  <circle cx="290" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="290" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">📚</text>
+  
+  <circle cx="370" cy="775" r="18" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="370" y="780" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="#757575">👨‍⚕️</text>
+</svg>

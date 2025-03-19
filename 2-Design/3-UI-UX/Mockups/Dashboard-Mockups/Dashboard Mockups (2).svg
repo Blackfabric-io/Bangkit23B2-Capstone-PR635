@@ -1,0 +1,272 @@
+<svg width="1200" height="2400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2400">
+  <!-- Background -->
+  <rect width="1200" height="2400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="600" y="50" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" font-weight="bold" fill="#1B5E20">NutriGenius Dashboard Mockups</text>
+  
+  <!-- Main Dashboard -->
+  <!-- Mobile Device Frame -->
+  <rect x="350" y="100" width="500" height="1000" rx="40" ry="40" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="360" y="110" width="480" height="980" rx="30" ry="30" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="360" y="110" width="480" height="40" rx="30" ry="30" fill="#fafafa"/>
+  <text x="390" y="135" font-family="Open Sans, sans-serif" font-size="14" fill="#333">9:41</text>
+  <text x="770" y="135" font-family="Open Sans, sans-serif" font-size="14" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="360" y="150" width="480" height="60" fill="#2E7D32"/>
+  <text x="390" y="185" font-family="Nunito, sans-serif" font-size="18" font-weight="bold" fill="white">≡</text>
+  <text x="600" y="185" font-family="Nunito, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">NutriGenius</text>
+  <circle cx="810" cy="180" r="15" fill="white" fill-opacity="0.2"/>
+  <text x="810" y="185" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">👤</text>
+  
+  <!-- Welcome Section -->
+  <rect x="380" y="230" width="440" height="80" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="400" y="260" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" fill="#1B5E20">Good morning, Sarah!</text>
+  <text x="400" y="290" font-family="Open Sans, sans-serif" font-size="16" fill="#1B5E20">Amir is doing well today.</text>
+  <text x="770" y="260" font-family="Nunito, sans-serif" font-size="16" fill="#2E7D32">▼</text>
+  
+  <!-- Growth Status Card -->
+  <rect x="380" y="330" width="210" height="220" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="400" y="360" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Growth Status</text>
+  
+  <!-- Mini Growth Chart -->
+  <rect x="400" y="380" width="170" height="80" rx="4" ry="4" fill="#F5F5F5"/>
+  <path d="M 400 440 L 420 430 L 440 435 L 460 425 L 480 420 L 500 410 L 520 405 L 540 400 L 560 390" stroke="#2E7D32" stroke-width="2" fill="none"/>
+  <path d="M 400 440 L 420 435 L 440 430 L 460 425 L 480 435 L 500 430 L 520 425 L 540 420 L 560 415" stroke="#FF8F00" stroke-width="2" fill="none"/>
+  
+  <!-- Growth Metrics -->
+  <text x="400" y="480" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Height: 85cm (45%)</text>
+  <text x="400" y="505" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Weight: 12kg (50%)</text>
+  <text x="400" y="530" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">Last update: Today</text>
+  
+  <!-- Today's Meals Card -->
+  <rect x="610" y="330" width="210" height="220" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="630" y="360" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Today's Meals</text>
+  
+  <!-- Breakfast Entry -->
+  <rect x="630" y="380" width="170" height="60" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="650" y="405" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Breakfast</text>
+  <text x="650" y="425" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">7:30 AM</text>
+  <circle cx="770" cy="405" r="10" fill="#C8E6C9"/>
+  <text x="770" y="410" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#2E7D32">✓</text>
+  
+  <!-- Add Meal Button -->
+  <rect x="630" y="460" width="170" height="48" rx="8" ry="8" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="715" y="490" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">+ Add Meal</text>
+  
+  <!-- Nutrition Insights Card -->
+  <rect x="380" y="570" width="210" height="220" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="400" y="600" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Nutrition Insights</text>
+  
+  <!-- Nutrition Chart -->
+  <circle cx="485" cy="660" r="50" fill="#F5F5F5"/>
+  <path d="M 485 610 A 50 50 0 0 1 535 660 L 485 660 Z" fill="#2E7D32"/>
+  <path d="M 485 660 L 535 660 A 50 50 0 0 1 485 710 Z" fill="#FF8F00"/>
+  <path d="M 485 660 L 485 710 A 50 50 0 0 1 435 660 Z" fill="#F44336"/>
+  <path d="M 485 660 L 435 660 A 50 50 0 0 1 485 610 Z" fill="#2196F3"/>
+  
+  <!-- Nutrition Metrics -->
+  <text x="400" y="730" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Protein: 80% of goal</text>
+  <text x="400" y="755" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Iron: 65% of goal</text>
+  <text x="520" y="770" font-family="Nunito, sans-serif" font-size="12" font-weight="600" fill="#2E7D32">View all →</text>
+  
+  <!-- Upcoming Activities Card -->
+  <rect x="610" y="570" width="210" height="220" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="630" y="600" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Upcoming</text>
+  
+  <!-- Measurement Reminder -->
+  <rect x="630" y="620" width="170" height="60" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="650" y="645" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Measurement</text>
+  <text x="650" y="665" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">Due in 2d</text>
+  <circle cx="770" cy="645" r="10" fill="#FFF3E0"/>
+  <text x="770" y="650" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#FF8F00">!</text>
+  
+  <!-- View More Button -->
+  <rect x="630" y="700" width="170" height="40" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="715" y="725" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#757575">View more</text>
+  
+  <!-- Recommended Content Section -->
+  <rect x="380" y="810" width="440" height="160" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="400" y="840" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Recommended for You</text>
+  
+  <!-- Article Cards -->
+  <rect x="400" y="860" width="120" height="80" rx="4" ry="4" fill="#F5F5F5"/>
+  <rect x="400" y="860" width="120" height="40" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="460" y="885" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#1B5E20">NUTRITION</text>
+  <text x="460" y="915" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Iron-rich foods for toddlers</text>
+  
+  <rect x="540" y="860" width="120" height="80" rx="4" ry="4" fill="#F5F5F5"/>
+  <rect x="540" y="860" width="120" height="40" rx="4" ry="4" fill="#FFF3E0"/>
+  <text x="600" y="885" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#E65100">GROWTH</text>
+  <text x="600" y="915" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Understanding growth percentiles</text>
+  
+  <rect x="680" y="860" width="60" height="80" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="710" y="905" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#757575">→</text>
+  
+  <!-- Floating Action Button -->
+  <circle cx="800" cy="970" r="28" fill="#FF8F00"/>
+  <text x="800" y="978" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="white">+</text>
+  
+  <!-- Bottom Navigation -->
+  <rect x="360" y="1050" width="480" height="40" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <circle cx="420" cy="1070" r="15" fill="#2E7D32"/>
+  <text x="420" y="1075" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">🏠</text>
+  
+  <circle cx="510" cy="1070" r="15" fill="#F5F5F5"/>
+  <text x="510" y="1075" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">📏</text>
+  
+  <circle cx="600" cy="1070" r="15" fill="#F5F5F5"/>
+  <text x="600" y="1075" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">📷</text>
+  
+  <circle cx="690" cy="1070" r="15" fill="#F5F5F5"/>
+  <text x="690" y="1075" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">📚</text>
+  
+  <circle cx="780" cy="1070" r="15" fill="#F5F5F5"/>
+  <text x="780" y="1075" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">👨‍⚕️</text>
+  
+  <!-- Screen Label -->
+  <text x="600" y="1130" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#1B5E20">Main Dashboard</text>
+  
+  <!-- Child Selector Dashboard -->
+  <!-- Mobile Device Frame -->
+  <rect x="350" y="1200" width="500" height="1000" rx="40" ry="40" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="360" y="1210" width="480" height="980" rx="30" ry="30" fill="white" fill-opacity="0.7"/>
+  
+  <!-- Status Bar -->
+  <rect x="360" y="1210" width="480" height="40" rx="30" ry="30" fill="#fafafa"/>
+  <text x="390" y="1235" font-family="Open Sans, sans-serif" font-size="14" fill="#333">9:41</text>
+  <text x="770" y="1235" font-family="Open Sans, sans-serif" font-size="14" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="360" y="1250" width="480" height="60" fill="#2E7D32"/>
+  <text x="390" y="1285" font-family="Nunito, sans-serif" font-size="18" font-weight="bold" fill="white">≡</text>
+  <text x="600" y="1285" font-family="Nunito, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">NutriGenius</text>
+  <circle cx="810" cy="1280" r="15" fill="white" fill-opacity="0.2"/>
+  <text x="810" y="1285" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">👤</text>
+  
+  <!-- Child Selector Overlay -->
+  <rect x="400" y="1350" width="400" height="400" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="430" y="1380" font-family="Nunito, sans-serif" font-size="18" font-weight="600" fill="#1B5E20">Select a child</text>
+  
+  <!-- Child 1 -->
+  <rect x="430" y="1410" width="340" height="80" rx="8" ry="8" fill="#C8E6C9" stroke="#2E7D32" stroke-width="1"/>
+  <text x="460" y="1440" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">👦 Amir, 2y 3m</text>
+  <text x="460" y="1465" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Last update: Today</text>
+  <text x="460" y="1485" font-family="Open Sans, sans-serif" font-size="14" fill="#2E7D32">Status: On track</text>
+  <circle cx="740" cy="1440" r="10" fill="#2E7D32"/>
+  <text x="740" y="1445" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  
+  <!-- Child 2 -->
+  <rect x="430" y="1510" width="340" height="80" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="460" y="1540" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">👧 Layla, 4y 1m</text>
+  <text x="460" y="1565" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Last update: Yesterday</text>
+  <text x="460" y="1585" font-family="Open Sans, sans-serif" font-size="14" fill="#2E7D32">Status: On track</text>
+  
+  <!-- Add Child Button -->
+  <rect x="430" y="1610" width="340" height="48" rx="8" ry="8" fill="white" stroke="#2E7D32" stroke-width="1" stroke-dasharray="4,4"/>
+  <text x="600" y="1640" font-family="Nunito, sans-serif" font-size="16" font-weight="600" text-anchor="middle" fill="#2E7D32">➕ Add a child</text>
+  
+  <!-- Screen Label -->
+  <text x="600" y="2230" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#1B5E20">Child Selector Dashboard</text>
+  
+  <!-- Quick Actions Menu -->
+  <!-- Mobile Device Frame -->
+  <rect x="900" y="100" width="250" height="500" rx="40" ry="40" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="910" y="110" width="230" height="480" rx="30" ry="30" fill="white" fill-opacity="0.7"/>
+  
+  <!-- Quick Actions Panel -->
+  <rect x="930" y="250" width="190" height="300" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="950" y="280" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Quick Actions</text>
+  
+  <!-- Action Grid Row 1 -->
+  <rect x="950" y="300" width="70" height="70" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="985" y="335" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#2E7D32">📏</text>
+  <text x="985" y="360" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#1B5E20">Add Measure</text>
+  
+  <rect x="1030" y="300" width="70" height="70" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="1065" y="335" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#2E7D32">📷</text>
+  <text x="1065" y="360" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#1B5E20">Scan Food</text>
+  
+  <!-- Action Grid Row 2 -->
+  <rect x="950" y="380" width="70" height="70" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="985" y="415" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#2E7D32">🍽️</text>
+  <text x="985" y="440" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#1B5E20">Log Meal</text>
+  
+  <rect x="1030" y="380" width="70" height="70" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="1065" y="415" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#2E7D32">👨‍⚕️</text>
+  <text x="1065" y="440" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#1B5E20">Book Consult</text>
+  
+  <!-- Action Grid Row 3 -->
+  <rect x="950" y="460" width="70" height="70" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="985" y="495" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#2E7D32">📊</text>
+  <text x="985" y="520" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#1B5E20">View Reports</text>
+  
+  <rect x="1030" y="460" width="70" height="70" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="1065" y="495" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#2E7D32">📝</text>
+  <text x="1065" y="520" font-family="Nunito, sans-serif" font-size="10" font-weight="600" text-anchor="middle" fill="#1B5E20">Add Notes</text>
+  
+  <!-- Screen Label -->
+  <text x="1025" y="630" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#1B5E20">Quick Actions Menu</text>
+  
+  <!-- Dashboard Settings -->
+  <!-- Mobile Device Frame -->
+  <rect x="900" y="700" width="250" height="600" rx="40" ry="40" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="910" y="710" width="230" height="580" rx="30" ry="30" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="910" y="710" width="230" height="40" rx="30" ry="30" fill="#fafafa"/>
+  <text x="940" y="735" font-family="Open Sans, sans-serif" font-size="14" fill="#333">9:41</text>
+  
+  <!-- App Header -->
+  <rect x="910" y="750" width="230" height="60" fill="#2E7D32"/>
+  <text x="930" y="785" font-family="Nunito, sans-serif" font-size="18" font-weight="bold" fill="white">←</text>
+  <text x="1025" y="785" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Dashboard Settings</text>
+  
+  <!-- Card Visibility Section -->
+  <text x="930" y="830" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Card Visibility</text>
+  
+  <!-- Toggle Items -->
+  <rect x="930" y="840" width="190" height="40" rx="4" ry="4" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="950" y="865" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Growth Status</text>
+  <rect x="1090" y="850" width="20" height="20" rx="3" ry="3" fill="#2E7D32"/>
+  <text x="1100" y="865" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  
+  <rect x="930" y="890" width="190" height="40" rx="4" ry="4" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="950" y="915" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Today's Meals</text>
+  <rect x="1090" y="900" width="20" height="20" rx="3" ry="3" fill="#2E7D32"/>
+  <text x="1100" y="915" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  
+  <rect x="930" y="940" width="190" height="40" rx="4" ry="4" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="950" y="965" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Nutrition Insights</text>
+  <rect x="1090" y="950" width="20" height="20" rx="3" ry="3" fill="#2E7D32"/>
+  <text x="1100" y="965" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  
+  <!-- Card Order Section -->
+  <text x="930" y="1010" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Card Order</text>
+  
+  <rect x="930" y="1020" width="190" height="150" rx="4" ry="4" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="950" y="1040" font-family="Open Sans, sans-serif" font-size="12" font-weight="600" fill="#424242">Drag to reorder</text>
+  
+  <!-- Order Items -->
+  <rect x="940" y="1050" width="170" height="30" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="950" y="1070" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">1. Growth Status</text>
+  <text x="1090" y="1070" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">⋮⋮</text>
+  
+  <rect x="940" y="1090" width="170" height="30" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="950" y="1110" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">2. Today's Meals</text>
+  <text x="1090" y="1110" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">⋮⋮</text>
+  
+  <rect x="940" y="1130" width="170" height="30" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="950" y="1150" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">3. Nutrition Insights</text>
+  <text x="1090" y="1150" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">⋮⋮</text>
+  
+  <!-- Reset Button -->
+  <rect x="930" y="1190" width="190" height="48" rx="8" ry="8" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="1025" y="1220" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">Reset to Default</text>
+  
+  <!-- Screen Label -->
+  <text x="1025" y="1330" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#1B5E20">Dashboard Settings</text>
+</svg>

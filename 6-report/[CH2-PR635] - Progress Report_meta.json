@@ -1,0 +1,511 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          146.42578125,
+          109.7314453125
+        ],
+        [
+          467.3671875,
+          109.7314453125
+        ],
+        [
+          467.3671875,
+          161.9384765625
+        ],
+        [
+          146.42578125,
+          161.9384765625
+        ]
+      ]
+    },
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          147.0234375,
+          110.5048828125
+        ],
+        [
+          467.96484375,
+          110.5048828125
+        ],
+        [
+          467.96484375,
+          162.1318359375
+        ],
+        [
+          147.0234375,
+          162.1318359375
+        ]
+      ]
+    },
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          147.0800018310547,
+          111.6650390625
+        ],
+        [
+          467.96484375,
+          111.6650390625
+        ],
+        [
+          467.96484375,
+          161.6041259765625
+        ],
+        [
+          147.0800018310547,
+          161.6041259765625
+        ]
+      ]
+    },
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          146.8740234375,
+          111.375
+        ],
+        [
+          467.96484375,
+          111.375
+        ],
+        [
+          467.96484375,
+          162.421875
+        ],
+        [
+          146.8740234375,
+          162.421875
+        ]
+      ]
+    },
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          147.0800018310547,
+          111.181640625
+        ],
+        [
+          468.5625,
+          111.181640625
+        ],
+        [
+          468.5625,
+          161.6041259765625
+        ],
+        [
+          147.0800018310547,
+          161.6041259765625
+        ]
+      ]
+    },
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          147.0800018310547,
+          112.341796875
+        ],
+        [
+          467.3671875,
+          112.341796875
+        ],
+        [
+          467.3671875,
+          161.6041259765625
+        ],
+        [
+          147.0800018310547,
+          161.6041259765625
+        ]
+      ]
+    },
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          147.0800018310547,
+          112.8040771484375
+        ],
+        [
+          464.8088073730469,
+          112.8040771484375
+        ],
+        [
+          464.8088073730469,
+          161.6041259765625
+        ],
+        [
+          147.0800018310547,
+          161.6041259765625
+        ]
+      ]
+    },
+    {
+      "title": "Project Progress Description:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.49462890625,
+          181.177734375
+        ],
+        [
+          230.6500244140625,
+          181.177734375
+        ],
+        [
+          230.6500244140625,
+          195.099609375
+        ],
+        [
+          71.49462890625,
+          195.099609375
+        ]
+      ]
+    },
+    {
+      "title": "-Tasks that are done",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.12109375,
+          197.7099609375
+        ],
+        [
+          181.6875,
+          197.7099609375
+        ],
+        [
+          181.6875,
+          210.76171875
+        ],
+        [
+          71.12109375,
+          210.76171875
+        ]
+      ]
+    },
+    {
+      "title": "-Tasks that are on progress",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.905517578125,
+          322.330078125
+        ],
+        [
+          218.8916015625,
+          322.330078125
+        ],
+        [
+          218.8916015625,
+          335.091796875
+        ],
+        [
+          71.905517578125,
+          335.091796875
+        ]
+      ]
+    },
+    {
+      "title": "-Tasks that not done yet",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          72.0,
+          431.578125
+        ],
+        [
+          203.0537109375,
+          431.578125
+        ],
+        [
+          203.0537109375,
+          444.7265625
+        ],
+        [
+          72.0,
+          444.7265625
+        ]
+      ]
+    },
+    {
+      "title": "Progress Report\nProduct-based Capstone Project",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          146.2763671875,
+          109.7314453125
+        ],
+        [
+          467.96484375,
+          109.7314453125
+        ],
+        [
+          467.96484375,
+          162.3251953125
+        ],
+        [
+          146.2763671875,
+          162.3251953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          375
+        ],
+        [
+          "Line",
+          146
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          320
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          293
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ]
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ]
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ]
+    }
+  ],
+  "debug_data_path": "debug_data\\[CH2-PR635] - Progress Report"
+}

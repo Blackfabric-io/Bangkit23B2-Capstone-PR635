@@ -1,0 +1,67 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background -->
+  <rect width="400" height="800" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Portion Selection</text>
+  
+  <!-- Food Title -->
+  <text x="20" y="120" font-family="Nunito, sans-serif" font-size="18" font-weight="600" fill="#1B5E20">Apple, Red Delicious</text>
+  
+  <!-- Food Image -->
+  <rect x="20" y="140" width="360" height="180" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="200" y="230" font-family="Nunito, sans-serif" font-size="60" text-anchor="middle" fill="#1B5E20">🍎</text>
+  
+  <!-- Portion Question -->
+  <text x="20" y="350" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">How much was consumed?</text>
+  
+  <!-- Portion Dropdown -->
+  <rect x="20" y="370" width="360" height="48" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="400" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Portion Size</text>
+  <text x="350" y="400" font-family="Nunito, sans-serif" font-size="16" text-anchor="end" fill="#424242">▼</text>
+  
+  <!-- Portion Options -->
+  <circle cx="35" cy="440" r="8" fill="#2E7D32"/>
+  <circle cx="35" cy="440" r="4" fill="white"/>
+  <text x="55" y="445" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">1 medium apple (182g)</text>
+  
+  <circle cx="35" cy="470" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="55" y="475" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">1 small apple (149g)</text>
+  
+  <circle cx="35" cy="500" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="55" y="505" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">1 large apple (223g)</text>
+  
+  <circle cx="35" cy="530" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="55" y="535" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Half medium apple (91g)</text>
+  
+  <circle cx="35" cy="560" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="55" y="565" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Custom amount</text>
+  
+  <!-- Visual Reference -->
+  <rect x="20" y="590" width="360" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="615" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Visual Reference</text>
+  
+  <!-- Apple Size References -->
+  <rect x="35" y="630" width="90" height="70" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="80" y="660" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" fill="#1B5E20">🍎</text>
+  <text x="80" y="690" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Small</text>
+  
+  <rect x="135" y="630" width="90" height="70" rx="8" ry="8" fill="#F5F5F5" stroke="#2E7D32" stroke-width="2"/>
+  <text x="180" y="660" font-family="Nunito, sans-serif" font-size="30" text-anchor="middle" fill="#1B5E20">🍎</text>
+  <text x="180" y="690" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Medium</text>
+  
+  <rect x="235" y="630" width="90" height="70" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="280" y="660" font-family="Nunito, sans-serif" font-size="36" text-anchor="middle" fill="#1B5E20">🍎</text>
+  <text x="280" y="690" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">Large</text>
+  
+  <!-- Continue Button -->
+  <rect x="20" y="730" width="360" height="48" rx="8" ry="8" fill="#2E7D32"/>
+  <text x="200" y="760" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Continue</text>
+</svg>

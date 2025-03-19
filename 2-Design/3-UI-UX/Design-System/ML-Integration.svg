@@ -1,0 +1,243 @@
+<svg width="1000" height="1800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1800">
+  <!-- Background -->
+  <rect width="1000" height="1800" fill="#f8f9fa"/>
+  <text x="500" y="40" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">NutriGenius App - Screen Flow Diagram</text>
+  
+  <!-- Authentication Flow -->
+  <rect x="40" y="80" width="920" height="200" fill="#e9f5f2" rx="10" ry="10" stroke="#5cb9a7" stroke-width="2"/>
+  <text x="500" y="100" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Authentication Flow</text>
+  
+  <!-- Welcome Screen -->
+  <rect x="60" y="120" width="120" height="140" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="120" y="140" font-family="Arial" font-size="12" text-anchor="middle">Welcome</text>
+  <rect x="80" y="150" width="80" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  <text x="120" y="165" font-family="Arial" font-size="10" text-anchor="middle" fill="white">NutriGenius</text>
+  <rect x="80" y="190" width="80" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  <text x="120" y="205" font-family="Arial" font-size="10" text-anchor="middle" fill="white">Log In</text>
+  <rect x="80" y="220" width="80" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  <text x="120" y="235" font-family="Arial" font-size="10" text-anchor="middle" fill="white">Sign Up</text>
+  
+  <!-- Login Screen -->
+  <rect x="240" y="120" width="120" height="140" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="300" y="140" font-family="Arial" font-size="12" text-anchor="middle">Login</text>
+  <rect x="260" y="150" width="80" height="15" fill="#eee" rx="3" ry="3"/>
+  <rect x="260" y="175" width="80" height="15" fill="#eee" rx="3" ry="3"/>
+  <rect x="260" y="200" width="80" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  <text x="300" y="215" font-family="Arial" font-size="10" text-anchor="middle" fill="white">Log In</text>
+  <rect x="260" y="230" width="80" height="10" fill="none"/>
+  <text x="300" y="238" font-family="Arial" font-size="8" text-anchor="middle">Social Login</text>
+  
+  <!-- Signup Screen -->
+  <rect x="420" y="120" width="120" height="140" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="480" y="140" font-family="Arial" font-size="12" text-anchor="middle">Sign Up</text>
+  <rect x="440" y="150" width="80" height="15" fill="#eee" rx="3" ry="3"/>
+  <rect x="440" y="175" width="80" height="15" fill="#eee" rx="3" ry="3"/>
+  <rect x="440" y="200" width="80" height="15" fill="#eee" rx="3" ry="3"/>
+  <rect x="440" y="225" width="80" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  <text x="480" y="240" font-family="Arial" font-size="10" text-anchor="middle" fill="white">Sign Up</text>
+  
+  <!-- Login to Main App Arrow -->
+  <path d="M 550 190 L 600 190 L 600 300 L 500 300" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Main Navigation Flow -->
+  <rect x="40" y="300" width="920" height="250" fill="#f0f7f5" rx="10" ry="10" stroke="#5cb9a7" stroke-width="2"/>
+  <text x="500" y="320" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Main Navigation</text>
+  
+  <!-- Home/Dashboard -->
+  <rect x="100" y="350" width="120" height="160" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="160" y="370" font-family="Arial" font-size="12" text-anchor="middle">Home/Dashboard</text>
+  <rect x="120" y="380" width="80" height="40" fill="#eee" rx="3" ry="3"/>
+  <text x="160" y="405" font-family="Arial" font-size="10" text-anchor="middle">Stats Summary</text>
+  <rect x="120" y="430" width="80" height="30" fill="#eee" rx="3" ry="3"/>
+  <text x="160" y="450" font-family="Arial" font-size="10" text-anchor="middle">Recent Activity</text>
+  <rect x="120" y="470" width="80" height="20" fill="#eee" rx="3" ry="3"/>
+  <text x="160" y="485" font-family="Arial" font-size="10" text-anchor="middle">Quick Actions</text>
+  
+  <!-- Bottom Nav -->
+  <rect x="100" y="510" width="120" height="30" fill="#ddd" rx="3" ry="3"/>
+  <circle cx="130" cy="525" r="8" fill="#5cb9a7"/>
+  <circle cx="160" cy="525" r="8" fill="#5cb9a7"/>
+  <circle cx="190" cy="525" r="8" fill="#5cb9a7"/>
+  
+  <!-- Profile Screen -->
+  <rect x="280" y="350" width="120" height="160" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="340" y="370" font-family="Arial" font-size="12" text-anchor="middle">Profile</text>
+  <circle cx="340" cy="400" r="25" fill="#eee" stroke="#ddd"/>
+  <text x="340" y="405" font-family="Arial" font-size="10" text-anchor="middle">Avatar</text>
+  <line x1="300" y1="440" x2="380" y2="440" stroke="#eee" stroke-width="6" rx="3" ry="3"/>
+  <line x1="300" y1="460" x2="380" y2="460" stroke="#eee" stroke-width="6" rx="3" ry="3"/>
+  <line x1="300" y1="480" x2="380" y2="480" stroke="#eee" stroke-width="6" rx="3" ry="3"/>
+  
+  <!-- Bottom Nav -->
+  <rect x="280" y="510" width="120" height="30" fill="#ddd" rx="3" ry="3"/>
+  <circle cx="310" cy="525" r="8" fill="#5cb9a7"/>
+  <circle cx="340" cy="525" r="8" fill="#5cb9a7"/>
+  <circle cx="370" cy="525" r="8" fill="#5cb9a7"/>
+  
+  <!-- Monitoring Flow -->
+  <rect x="40" y="580" width="920" height="330" fill="#e9f5f2" rx="10" ry="10" stroke="#5cb9a7" stroke-width="2"/>
+  <text x="500" y="600" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Monitoring Flow</text>
+  
+  <!-- Monitoring List -->
+  <rect x="60" y="620" width="120" height="160" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="120" y="640" font-family="Arial" font-size="12" text-anchor="middle">Monitoring List</text>
+  <rect x="70" y="655" width="100" height="25" fill="#eee" rx="3" ry="3"/>
+  <rect x="70" y="690" width="100" height="25" fill="#eee" rx="3" ry="3"/>
+  <rect x="70" y="725" width="100" height="25" fill="#eee" rx="3" ry="3"/>
+  <circle cx="160" cy="770" r="10" fill="#5cb9a7" stroke="white" stroke-width="2"/>
+  <text x="160" y="774" font-family="Arial" font-size="12" text-anchor="middle" fill="white">+</text>
+  
+  <!-- Bottom Nav -->
+  <rect x="60" y="780" width="120" height="30" fill="#ddd" rx="3" ry="3"/>
+  <circle cx="90" cy="795" r="8" fill="#5cb9a7"/>
+  <circle cx="120" cy="795" r="8" fill="#5cb9a7"/>
+  <circle cx="150" cy="795" r="8" fill="#5cb9a7"/>
+  
+  <!-- Monitoring Add -->
+  <rect x="240" y="620" width="120" height="160" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="300" y="640" font-family="Arial" font-size="12" text-anchor="middle">Add Monitoring</text>
+  <circle cx="300" cy="670" r="20" fill="#eee" stroke="#ddd"/>
+  <line x1="260" y1="700" x2="340" y2="700" stroke="#eee" stroke-width="6"/>
+  <line x1="260" y1="720" x2="340" y2="720" stroke="#eee" stroke-width="6"/>
+  <line x1="260" y1="740" x2="340" y2="740" stroke="#eee" stroke-width="6"/>
+  <rect x="270" y="760" width="60" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  <text x="300" y="775" font-family="Arial" font-size="10" text-anchor="middle" fill="white">Save</text>
+  
+  <!-- Monitoring Detail -->
+  <rect x="420" y="620" width="120" height="160" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="480" y="640" font-family="Arial" font-size="12" text-anchor="middle">Detail View</text>
+  <circle cx="480" cy="670" r="20" fill="#eee" stroke="#ddd"/>
+  <rect x="440" y="700" width="40" height="40" fill="#eee" rx="3" ry="3"/>
+  <rect x="490" y="700" width="40" height="40" fill="#eee" rx="3" ry="3"/>
+  <line x1="440" y1="750" x2="520" y2="750" stroke="#eee" stroke-width="4"/>
+  <rect x="470" y="760" width="20" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  
+  <!-- Monitoring Edit -->
+  <rect x="600" y="620" width="120" height="160" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="660" y="640" font-family="Arial" font-size="12" text-anchor="middle">Edit View</text>
+  <circle cx="660" cy="670" r="20" fill="#eee" stroke="#ddd"/>
+  <line x1="620" y1="700" x2="700" y2="700" stroke="#eee" stroke-width="6"/>
+  <line x1="620" y1="720" x2="700" y2="720" stroke="#eee" stroke-width="6"/>
+  <line x1="620" y1="740" x2="700" y2="740" stroke="#eee" stroke-width="6"/>
+  <rect x="630" y="760" width="60" height="20" fill="#5cb9a7" rx="3" ry="3"/>
+  <text x="660" y="775" font-family="Arial" font-size="10" text-anchor="middle" fill="white">Update</text>
+  
+  <!-- Consultation -->
+  <rect x="780" y="620" width="120" height="160" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="840" y="640" font-family="Arial" font-size="12" text-anchor="middle">Consultation</text>
+  <rect x="790" y="660" width="100" height="20" fill="#eee" rx="10" ry="10"/>
+  <rect x="790" y="690" width="100" height="20" fill="#eee" rx="10" ry="10"/>
+  <rect x="790" y="720" width="100" height="20" fill="#eee" rx="10" ry="10"/>
+  <rect x="800" y="750" width="80" height="20" fill="#f0f0f0" rx="10" ry="10"/>
+  <circle cx="890" cy="760" r="10" fill="#f8d64e"/>
+  
+  <!-- Connection Arrows -->
+  <path d="M 180 700 L 240 700" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 360 700 L 420 700" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 540 680 L 600 680" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 540 720 L 570 720 L 570 840 L 120 840 L 120 780" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 720 700 L 780 700" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Scanner & Articles Flow -->
+  <rect x="40" y="930" width="920" height="330" fill="#f0f7f5" rx="10" ry="10" stroke="#5cb9a7" stroke-width="2"/>
+  <text x="500" y="950" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Scanner &amp; Articles Flow</text>
+  
+  <!-- Scanner -->
+  <rect x="100" y="970" width="120" height="210" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="160" y="990" font-family="Arial" font-size="12" text-anchor="middle">Food Scanner</text>
+  <rect x="110" y="1000" width="100" height="140" fill="#eee" rx="3" ry="3"/>
+  <text x="160" y="1070" font-family="Arial" font-size="10" text-anchor="middle">Camera View</text>
+  <circle cx="160" cy="1160" r="15" fill="white" stroke="#5cb9a7" stroke-width="2"/>
+  <circle cx="130" cy="1160" r="10" fill="#f8d64e"/>
+  <circle cx="190" cy="1160" r="10" fill="#5cb9a7"/>
+  
+  <!-- Article List -->
+  <rect x="280" y="970" width="120" height="210" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="340" y="990" font-family="Arial" font-size="12" text-anchor="middle">Article List</text>
+  <rect x="290" y="1000" width="100" height="40" fill="#eee" rx="3" ry="3"/>
+  <rect x="290" y="1050" width="100" height="40" fill="#eee" rx="3" ry="3"/>
+  <rect x="290" y="1100" width="100" height="40" fill="#eee" rx="3" ry="3"/>
+  <rect x="290" y="1150" width="100" height="40" fill="#eee" rx="3" ry="3"/>
+  
+  <!-- Bottom Nav -->
+  <rect x="280" y="1180" width="120" height="30" fill="#ddd" rx="3" ry="3"/>
+  <circle cx="310" cy="1195" r="8" fill="#5cb9a7"/>
+  <circle cx="340" cy="1195" r="8" fill="#5cb9a7"/>
+  <circle cx="370" cy="1195" r="8" fill="#5cb9a7"/>
+  
+  <!-- Article Detail -->
+  <rect x="460" y="970" width="120" height="210" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="520" y="990" font-family="Arial" font-size="12" text-anchor="middle">Article Detail</text>
+  <rect x="470" y="1000" width="100" height="60" fill="#eee" rx="3" ry="3"/>
+  <text x="520" y="1030" font-family="Arial" font-size="10" text-anchor="middle">Image</text>
+  <line x1="470" y1="1070" x2="570" y2="1070" stroke="#eee" stroke-width="4"/>
+  <line x1="470" y1="1090" x2="570" y2="1090" stroke="#eee" stroke-width="4"/>
+  <line x1="470" y1="1110" x2="570" y2="1110" stroke="#eee" stroke-width="4"/>
+  <line x1="470" y1="1130" x2="570" y2="1130" stroke="#eee" stroke-width="4"/>
+  <line x1="470" y1="1150" x2="570" y2="1150" stroke="#eee" stroke-width="4"/>
+  <line x1="470" y1="1170" x2="570" y2="1170" stroke="#eee" stroke-width="4"/>
+  
+  <!-- Scanner Result/Recognition -->
+  <rect x="640" y="970" width="120" height="210" fill="white" stroke="#5cb9a7" stroke-width="2" rx="5" ry="5"/>
+  <text x="700" y="990" font-family="Arial" font-size="12" text-anchor="middle">Scanner Result</text>
+  <rect x="650" y="1000" width="100" height="60" fill="#eee" rx="3" ry="3"/>
+  <text x="700" y="1030" font-family="Arial" font-size="10" text-anchor="middle">Food Image</text>
+  <rect x="650" y="1070" width="100" height="30" fill="#eee" rx="3" ry="3"/>
+  <text x="700" y="1090" font-family="Arial" font-size="10" text-anchor="middle">Food Name</text>
+  <rect x="650" y="1110" width="100" height="60" fill="#eee" rx="3" ry="3"/>
+  <text x="700" y="1140" font-family="Arial" font-size="10" text-anchor="middle">Nutrition Facts</text>
+  
+  <!-- Connection Arrows -->
+  <path d="M 220 1080 L 280 1080" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 400 1080 L 460 1080" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 220 1080 L 250 1080 L 250 900 L 650 900 L 650 970" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 700 970 L 700 890 L 200 890 L 200 780" fill="none" stroke="#5cb9a7" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- ML Components -->
+  <rect x="40" y="1280" width="920" height="280" fill="#e8f4f8" rx="10" ry="10" stroke="#3498db" stroke-width="2"/>
+  <text x="500" y="1300" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">ML Components Integration</text>
+  
+  <!-- Food Recognition -->
+  <rect x="100" y="1320" width="180" height="100" fill="white" stroke="#3498db" stroke-width="2" rx="5" ry="5"/>
+  <text x="190" y="1340" font-family="Arial" font-size="14" text-anchor="middle">Food Recognition ML</text>
+  <text x="190" y="1360" font-family="Arial" font-size="10" text-anchor="middle">Image → Food Classification</text>
+  <text x="190" y="1380" font-family="Arial" font-size="10" text-anchor="middle">Confidence Score</text>
+  <text x="190" y="1400" font-family="Arial" font-size="10" text-anchor="middle">Nutritional Data Lookup</text>
+  
+  <!-- Portion Estimation -->
+  <rect x="330" y="1320" width="180" height="100" fill="white" stroke="#3498db" stroke-width="2" rx="5" ry="5"/>
+  <text x="420" y="1340" font-family="Arial" font-size="14" text-anchor="middle">Portion Estimation</text>
+  <text x="420" y="1360" font-family="Arial" font-size="10" text-anchor="middle">Image → Volume/Weight</text>
+  <text x="420" y="1380" font-family="Arial" font-size="10" text-anchor="middle">3D Reconstruction</text>
+  <text x="420" y="1400" font-family="Arial" font-size="10" text-anchor="middle">Calorie Calculation</text>
+  
+  <!-- Nutritional Recommendations -->
+  <rect x="560" y="1320" width="180" height="100" fill="white" stroke="#3498db" stroke-width="2" rx="5" ry="5"/>
+  <text x="650" y="1340" font-family="Arial" font-size="14" text-anchor="middle">Recommendations</text>
+  <text x="650" y="1360" font-family="Arial" font-size="10" text-anchor="middle">User Profile → Suggestions</text>
+  <text x="650" y="1380" font-family="Arial" font-size="10" text-anchor="middle">Meal Planning</text>
+  <text x="650" y="1400" font-family="Arial" font-size="10" text-anchor="middle">Health Goal Tracking</text>
+  
+  <!-- ML Integration -->
+  <rect x="150" y="1450" width="700" height="80" fill="white" stroke="#3498db" stroke-width="2" rx="5" ry="5"/>
+  <text x="500" y="1470" font-family="Arial" font-size="14" text-anchor="middle">ML Data Flow</text>
+  <path d="M 190 1120 L 190 1320" fill="none" stroke="#3498db" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrow)"/>
+  <path d="M 420 1500 L 420 1420" fill="none" stroke="#3498db" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 580 1500 L 580 1420" fill="none" stroke="#3498db" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="200" y="1490" font-family="Arial" font-size="10">1. Image Capture</text>
+  <text x="300" y="1490" font-family="Arial" font-size="10">2. Food Classification</text>
+  <text x="430" y="1490" font-family="Arial" font-size="10">3. Portion Analysis</text>
+  <text x="550" y="1490" font-family="Arial" font-size="10">4. Nutrition Extraction</text>
+  <text x="680" y="1490" font-family="Arial" font-size="10">5. Personalized Insights</text>
+  <path d="M 220 1500 L 280 1500" fill="none" stroke="#3498db" stroke-width="1" marker-end="url(#arrow)"/>
+  <path d="M 320 1500 L 380 1500" fill="none" stroke="#3498db" stroke-width="1" marker-end="url(#arrow)"/>
+  <path d="M 450 1500 L 510 1500" fill="none" stroke="#3498db" stroke-width="1" marker-end="url(#arrow)"/>
+  <path d="M 580 1500 L 640 1500" fill="none" stroke="#3498db" stroke-width="1" marker-end="url(#arrow)"/>
+  
+  <!-- Arrow Definitions -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#5cb9a7"/>
+    </marker>
+  </defs>
+</svg>

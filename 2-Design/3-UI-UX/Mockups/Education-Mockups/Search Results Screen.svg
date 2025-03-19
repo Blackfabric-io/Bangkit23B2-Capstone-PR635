@@ -1,0 +1,75 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background -->
+  <rect width="400" height="800" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  
+  <!-- Search Bar -->
+  <rect x="20" y="110" width="360" height="45" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="55" y="138" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">iron-rich foods</text>
+  <text x="35" y="138" font-family="Nunito, sans-serif" font-size="16" fill="#424242">🔍</text>
+  <text x="365" y="138" font-family="Nunito, sans-serif" font-size="16" fill="#424242">✕</text>
+  
+  <!-- Results Count -->
+  <text x="20" y="180" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">12 results found</text>
+  
+  <!-- Filter Options -->
+  <text x="20" y="215" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Filter:</text>
+  <circle cx="70" cy="215" r="8" fill="#2E7D32"/>
+  <circle cx="70" cy="215" r="4" fill="white"/>
+  <text x="85" y="220" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">All</text>
+  
+  <circle cx="140" cy="215" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="155" y="220" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Articles</text>
+  
+  <circle cx="240" cy="215" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="255" y="220" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Recipes</text>
+  
+  <!-- Result Cards -->
+  <!-- Result 1 -->
+  <rect x="20" y="245" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="260" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="290" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">🍗</text>
+  <text x="95" y="270" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Iron-Rich Foods for Toddlers</text>
+  <text x="95" y="290" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Essential iron sources to support healthy</text>
+  <text x="95" y="310" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">growth and brain development.</text>
+  <text x="35" y="335" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">7 min read  •  Relevant to Amir (2y)</text>
+  
+  <!-- Result 2 -->
+  <rect x="20" y="355" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="370" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="400" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">📊</text>
+  <text x="95" y="380" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Preventing Iron Deficiency</text>
+  <text x="95" y="400" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Signs, symptoms, and strategies to ensure</text>
+  <text x="95" y="420" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">adequate iron intake in young children.</text>
+  <text x="35" y="445" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">9 min read  •  Relevant to Amir (2y)</text>
+  
+  <!-- Result 3 -->
+  <rect x="20" y="465" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="480" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="510" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">🍲</text>
+  <text x="95" y="490" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">5 Iron-Boosting Recipes for Picky Eaters</text>
+  <text x="95" y="510" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Kid-friendly meal ideas that pack an</text>
+  <text x="95" y="530" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">iron punch.</text>
+  <text x="35" y="555" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">Recipe  •  15 min preparation</text>
+  
+  <!-- Result 4 -->
+  <rect x="20" y="575" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="590" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="620" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">🔬</text>
+  <text x="95" y="600" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Understanding Iron Absorption</text>
+  <text x="95" y="620" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">How vitamin C helps iron absorption and</text>
+  <text x="95" y="640" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">other factors that affect nutrient uptake.</text>
+  <text x="35" y="665" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">6 min read</text>
+  
+  <!-- Load More Button -->
+  <rect x="100" y="695" width="200" height="40" rx="20" ry="20" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="200" y="720" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">Load More Results</text>
+</svg>

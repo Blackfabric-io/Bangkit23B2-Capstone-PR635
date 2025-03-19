@@ -1,0 +1,53 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background -->
+  <rect width="400" height="800" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Recognition Results</text>
+  
+  <!-- Captured Image -->
+  <rect x="20" y="110" width="360" height="180" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="200" y="200" font-family="Nunito, sans-serif" font-size="60" text-anchor="middle" fill="#1B5E20">🍎</text>
+  
+  <!-- Results Text -->
+  <text x="20" y="320" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">We found these possible matches:</text>
+  
+  <!-- Match 1 -->
+  <rect x="20" y="340" width="360" height="70" rx="8" ry="8" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <circle cx="40" cy="360" r="8" fill="#2E7D32"/>
+  <circle cx="40" cy="360" r="4" fill="white"/>
+  <text x="60" y="365" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Apple, Red Delicious (95%)</text>
+  <text x="60" y="390" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Medium-sized, raw</text>
+  
+  <!-- Match 2 -->
+  <rect x="20" y="420" width="360" height="70" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <circle cx="40" cy="440" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="60" y="445" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Apple, Gala (82%)</text>
+  <text x="60" y="470" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Medium-sized, raw</text>
+  
+  <!-- Match 3 -->
+  <rect x="20" y="500" width="360" height="70" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <circle cx="40" cy="520" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="60" y="525" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Apple, Generic (78%)</text>
+  <text x="60" y="550" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Medium-sized, raw</text>
+  
+  <!-- Alternative Options -->
+  <text x="20" y="600" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Not what you're looking for?</text>
+  
+  <rect x="20" y="615" width="160" height="40" rx="20" ry="20" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="100" y="640" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">Search Manually</text>
+  
+  <rect x="190" y="615" width="160" height="40" rx="20" ry="20" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="270" y="640" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">Retake Photo</text>
+  
+  <!-- Continue Button -->
+  <rect x="20" y="675" width="360" height="48" rx="8" ry="8" fill="#2E7D32"/>
+  <text x="200" y="705" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Continue with Selected Food</text>
+</svg>

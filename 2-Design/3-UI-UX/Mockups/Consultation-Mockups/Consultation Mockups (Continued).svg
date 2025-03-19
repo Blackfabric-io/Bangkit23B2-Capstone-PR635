@@ -1,0 +1,288 @@
+<svg width="1200" height="2800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2800">
+  <!-- Background -->
+  <rect width="1200" height="2800" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="600" y="50" font-family="Nunito, sans-serif" font-size="24" text-anchor="middle" font-weight="bold" fill="#2E7D32">NutriGenius Expert Consultation Mockups (Continued)</text>
+  
+  <!-- Booking Screen (Continued) -->
+  <!-- Mobile Device Frame -->
+  <rect x="100" y="100" width="320" height="650" rx="20" ry="20" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="110" y="110" width="300" height="630" rx="15" ry="15" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="110" y="110" width="300" height="30" rx="15" ry="15" fill="#fafafa"/>
+  <text x="130" y="130" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="390" y="130" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="110" y="140" width="300" height="50" fill="#2E7D32"/>
+  <text x="130" y="170" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" fill="white">←</text>
+  <text x="260" y="170" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Book Consultation</text>
+  
+  <!-- Booking Progress Indicator -->
+  <rect x="110" y="190" width="300" height="40" fill="#F5F5F5"/>
+  <circle cx="150" cy="210" r="15" fill="#2E7D32"/>
+  <text x="150" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">1</text>
+  <line x1="165" y1="210" x2="195" y2="210" stroke="#2E7D32" stroke-width="2"/>
+  
+  <circle cx="210" cy="210" r="15" fill="#C8E6C9"/>
+  <text x="210" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#1B5E20">2</text>
+  <line x1="225" y1="210" x2="255" y2="210" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <circle cx="270" cy="210" r="15" fill="#F5F5F5"/>
+  <text x="270" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">3</text>
+  <line x1="285" y1="210" x2="315" y2="210" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <circle cx="330" cy="210" r="15" fill="#F5F5F5"/>
+  <text x="330" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">4</text>
+  
+  <!-- Expert Info Persistent -->
+  <rect x="120" y="240" width="280" height="50" rx="4" ry="4" fill="#F5F5F5"/>
+  <circle cx="145" cy="265" r="15" fill="#C8E6C9"/>
+  <text x="145" y="270" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#1B5E20">👩‍⚕️</text>
+  <text x="170" y="260" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Dr. Emily Chen</text>
+  <text x="170" y="280" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">March 18, 2025 • 10:00 AM</text>
+  
+  <!-- Calendar View -->
+  <text x="120" y="315" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Select Date &amp; Time</text>
+  
+  <!-- Month Selector -->
+  <rect x="120" y="325" width="280" height="30" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="140" y="345" font-family="Nunito, sans-serif" font-size="14" fill="#1B5E20">◀</text>
+  <text x="260" y="345" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#1B5E20">March 2025</text>
+  <text x="380" y="345" font-family="Nunito, sans-serif" font-size="14" fill="#1B5E20">▶</text>
+  
+  <!-- Calendar Grid -->
+  <rect x="120" y="365" width="280" height="180" rx="4" ry="4" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <!-- Calendar Days Header -->
+  <text x="145" y="385" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#757575">S</text>
+  <text x="175" y="385" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#757575">M</text>
+  <text x="205" y="385" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#757575">T</text>
+  <text x="235" y="385" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#757575">W</text>
+  <text x="265" y="385" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#757575">T</text>
+  <text x="295" y="385" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#757575">F</text>
+  <text x="325" y="385" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#757575">S</text>
+  
+  <!-- Calendar Days -->
+  <!-- Week 1 -->
+  <text x="145" y="415" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#BDBDBD">23</text>
+  <text x="175" y="415" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#BDBDBD">24</text>
+  <text x="205" y="415" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#BDBDBD">25</text>
+  <text x="235" y="415" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#BDBDBD">26</text>
+  <text x="265" y="415" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#BDBDBD">27</text>
+  <text x="295" y="415" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#BDBDBD">28</text>
+  <text x="325" y="415" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">1</text>
+  
+  <!-- Week 2 -->
+  <text x="145" y="445" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">2</text>
+  <text x="175" y="445" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">3</text>
+  <text x="205" y="445" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">4</text>
+  <text x="235" y="445" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">5</text>
+  <text x="265" y="445" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">6</text>
+  <text x="295" y="445" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">7</text>
+  <text x="325" y="445" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">8</text>
+  
+  <!-- Week 3 -->
+  <text x="145" y="475" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">9</text>
+  <text x="175" y="475" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">10</text>
+  <text x="205" y="475" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">11</text>
+  <text x="235" y="475" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">12</text>
+  <text x="265" y="475" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">13</text>
+  <text x="295" y="475" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">14</text>
+  <text x="325" y="475" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">15</text>
+  
+  <!-- Week 4 -->
+  <text x="145" y="505" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">16</text>
+  <text x="175" y="505" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">17</text>
+  
+  <!-- Selected Date -->
+  <circle cx="205" cy="505" r="15" fill="#2E7D32"/>
+  <text x="205" y="510" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="white">18</text>
+  
+  <text x="235" y="505" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">19</text>
+  <text x="265" y="505" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">20</text>
+  <text x="295" y="505" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">21</text>
+  <text x="325" y="505" font-family="Open Sans, sans-serif" font-size="12" text-anchor="middle" fill="#424242">22</text>
+  
+  <!-- Time Slots -->
+  <text x="120" y="565" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Available Times</text>
+  
+  <rect x="120" y="575" width="85" height="35" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="162" y="597" font-family="Nunito, sans-serif" font-size="12" text-anchor="middle" fill="#1B5E20">9:00 AM</text>
+  
+  <rect x="215" y="575" width="85" height="35" rx="4" ry="4" fill="#2E7D32"/>
+  <text x="257" y="597" font-family="Nunito, sans-serif" font-size="12" text-anchor="middle" fill="white">10:00 AM</text>
+  
+  <rect x="310" y="575" width="85" height="35" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="352" y="597" font-family="Nunito, sans-serif" font-size="12" text-anchor="middle" fill="#1B5E20">11:00 AM</text>
+  
+  <rect x="120" y="620" width="85" height="35" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="162" y="642" font-family="Nunito, sans-serif" font-size="12" text-anchor="middle" fill="#1B5E20">1:00 PM</text>
+  
+  <rect x="215" y="620" width="85" height="35" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="257" y="642" font-family="Nunito, sans-serif" font-size="12" text-anchor="middle" fill="#1B5E20">2:00 PM</text>
+  
+  <rect x="310" y="620" width="85" height="35" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="352" y="642" font-family="Nunito, sans-serif" font-size="12" text-anchor="middle" fill="#1B5E20">3:00 PM</text>
+  
+  <!-- Time Zone -->
+  <text x="120" y="670" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">Time Zone: Eastern Time (ET)</text>
+  
+  <!-- Next Button -->
+  <rect x="120" y="690" width="280" height="40" rx="20" ry="20" fill="#2E7D32"/>
+  <text x="260" y="715" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Next</text>
+  
+  <!-- Screen Label -->
+  <text x="260" y="770" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#2E7D32">Booking: Select Time</text>
+  
+  <!-- Consultation Details Screen -->
+  <!-- Mobile Device Frame -->
+  <rect x="450" y="100" width="320" height="650" rx="20" ry="20" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="460" y="110" width="300" height="630" rx="15" ry="15" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="460" y="110" width="300" height="30" rx="15" ry="15" fill="#fafafa"/>
+  <text x="480" y="130" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="740" y="130" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="460" y="140" width="300" height="50" fill="#2E7D32"/>
+  <text x="480" y="170" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" fill="white">←</text>
+  <text x="610" y="170" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Book Consultation</text>
+  
+  <!-- Booking Progress Indicator -->
+  <rect x="460" y="190" width="300" height="40" fill="#F5F5F5"/>
+  <circle cx="500" cy="210" r="15" fill="#43A047"/>
+  <text x="500" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  <line x1="515" y1="210" x2="545" y2="210" stroke="#2E7D32" stroke-width="2"/>
+  
+  <circle cx="560" cy="210" r="15" fill="#2E7D32"/>
+  <text x="560" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">2</text>
+  <line x1="575" y1="210" x2="605" y2="210" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <circle cx="620" cy="210" r="15" fill="#F5F5F5"/>
+  <text x="620" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">3</text>
+  <line x1="635" y1="210" x2="665" y2="210" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <circle cx="680" cy="210" r="15" fill="#F5F5F5"/>
+  <text x="680" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">4</text>
+  
+  <!-- Expert Info Persistent -->
+  <rect x="470" y="240" width="280" height="50" rx="4" ry="4" fill="#F5F5F5"/>
+  <circle cx="495" cy="265" r="15" fill="#C8E6C9"/>
+  <text x="495" y="270" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#1B5E20">👩‍⚕️</text>
+  <text x="520" y="260" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Dr. Emily Chen</text>
+  <text x="520" y="280" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">March 18, 2025 • 10:00 AM</text>
+  
+  <!-- Consultation Type -->
+  <text x="470" y="315" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Consultation Type</text>
+  
+  <rect x="470" y="325" width="280" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <!-- Video Option -->
+  <rect x="480" y="340" width="260" height="40" rx="4" ry="4" fill="#2E7D32"/>
+  <text x="505" y="365" font-family="Nunito, sans-serif" font-size="14" fill="white">📹 Video</text>
+  <text x="720" y="365" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="end" fill="white">$45</text>
+  
+  <!-- Audio Option -->
+  <rect x="480" y="390" width="260" height="40" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="505" y="415" font-family="Nunito, sans-serif" font-size="14" fill="#1B5E20">🎧 Audio</text>
+  <text x="720" y="415" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="end" fill="#1B5E20">$35</text>
+  
+  <!-- Child Selection -->
+  <text x="470" y="465" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Child</text>
+  <rect x="470" y="475" width="280" height="40" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="495" y="500" font-family="Nunito, sans-serif" font-size="14" fill="#1B5E20">👦 Amir, 2y 3m</text>
+  <text x="730" y="500" font-family="Nunito, sans-serif" font-size="14" fill="#1B5E20">▼</text>
+  
+  <!-- Consultation Reason -->
+  <text x="470" y="535" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Reason for Consultation</text>
+  <rect x="470" y="545" width="280" height="80" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="480" y="565" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">Concerned about Amir's growth and weight gain over the past 3 months...</text>
+  
+  <!-- Common Concerns -->
+  <text x="470" y="645" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Common Concerns</text>
+  
+  <rect x="470" y="655" width="20" height="20" rx="4" ry="4" fill="#2E7D32"/>
+  <text x="480" y="670" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  <text x="500" y="670" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Growth concerns</text>
+  
+  <rect x="470" y="685" width="20" height="20" rx="4" ry="4" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="500" y="700" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Feeding difficulties</text>
+  
+  <!-- Navigation Buttons -->
+  <rect x="470" y="720" width="130" height="40" rx="20" ry="20" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="535" y="745" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">Back</text>
+  
+  <rect x="620" y="720" width="130" height="40" rx="20" ry="20" fill="#2E7D32"/>
+  <text x="685" y="745" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Next</text>
+  
+  <!-- Screen Label -->
+  <text x="610" y="770" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#2E7D32">Booking: Consultation Details</text>
+  
+  <!-- Payment Screen -->
+  <!-- Mobile Device Frame -->
+  <rect x="800" y="100" width="320" height="650" rx="20" ry="20" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <rect x="810" y="110" width="300" height="630" rx="15" ry="15" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="810" y="110" width="300" height="30" rx="15" ry="15" fill="#fafafa"/>
+  <text x="830" y="130" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="1090" y="130" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="810" y="140" width="300" height="50" fill="#2E7D32"/>
+  <text x="830" y="170" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" fill="white">←</text>
+  <text x="960" y="170" font-family="Nunito, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Book Consultation</text>
+  
+  <!-- Booking Progress Indicator -->
+  <rect x="810" y="190" width="300" height="40" fill="#F5F5F5"/>
+  <circle cx="850" cy="210" r="15" fill="#43A047"/>
+  <text x="850" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  <line x1="865" y1="210" x2="895" y2="210" stroke="#2E7D32" stroke-width="2"/>
+  
+  <circle cx="910" cy="210" r="15" fill="#43A047"/>
+  <text x="910" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">✓</text>
+  <line x1="925" y1="210" x2="955" y2="210" stroke="#2E7D32" stroke-width="2"/>
+  
+  <circle cx="970" cy="210" r="15" fill="#2E7D32"/>
+  <text x="970" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="white">3</text>
+  <line x1="985" y1="210" x2="1015" y2="210" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <circle cx="1030" cy="210" r="15" fill="#F5F5F5"/>
+  <text x="1030" y="215" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#757575">4</text>
+  
+  <!-- Expert Info Persistent -->
+  <rect x="820" y="240" width="280" height="50" rx="4" ry="4" fill="#F5F5F5"/>
+  <circle cx="845" cy="265" r="15" fill="#C8E6C9"/>
+  <text x="845" y="270" font-family="Nunito, sans-serif" font-size="14" text-anchor="middle" fill="#1B5E20">👩‍⚕️</text>
+  <text x="870" y="260" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Dr. Emily Chen</text>
+  <text x="870" y="280" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">March 18, 2025 • 10:00 AM</text>
+  
+  <!-- Payment Summary -->
+  <text x="820" y="315" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Payment Summary</text>
+  
+  <rect x="820" y="325" width="280" height="130" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <text x="840" y="350" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Video Consultation (30 min)</text>
+  <text x="1080" y="350" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="end" fill="#424242">$45.00</text>
+  
+  <text x="840" y="380" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Service Fee</text>
+  <text x="1080" y="380" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="end" fill="#424242">$2.50</text>
+  
+  <line x1="840" y1="400" x2="1080" y2="400" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <text x="840" y="430" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Total</text>
+  <text x="1080" y="430" font-family="Nunito, sans-serif" font-size="16" font-weight="600" text-anchor="end" fill="#1B5E20">$47.50</text>
+  
+  <!-- Payment Method -->
+  <text x="820" y="475" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Payment Method</text>
+  
+  <rect x="820" y="485" width="280" height="50" rx="4" ry="4" fill="#F5F5F5"/>
+  <text x="845" y="515" font-family="Nunito, sans-serif" font-size="14" fill="#1B5E20">💳 Credit Card ending in 4242</text>
+  <text x="1080" y="515" font-family="Nunito, sans-serif" font-size="14" fill="#1B5E20">▼</text>
+  
+  <!-- Terms and Conditions -->
+  </svg>

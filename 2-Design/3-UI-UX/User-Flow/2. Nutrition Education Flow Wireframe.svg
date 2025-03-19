@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1000" height="1800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1800">
+  <rect width="1006.16" height="1800" fill="#f8f9fa" style=""/>
+  <text x="500" y="50" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold" style="white-space: pre;">NutriGenius Nutrition Education Flow</text>
+  <rect x="50" y="100" width="250" height="450" fill="white" stroke="#5cb9a7" stroke-width="2" rx="15" ry="15"/>
+  <text x="175" y="130" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" style="white-space: pre;">Education Home</text>
+  <circle cx="80" cy="130" r="15" fill="#f6f6f6"/>
+  <text x="80" y="135" font-family="Arial" font-size="14" text-anchor="middle" style="white-space: pre;">←</text>
+  <rect x="70" y="160" width="210" height="40" fill="#f6f6f6" rx="20" ry="20"/>
+  <text x="100" y="185" font-family="Arial" font-size="12" fill="#888" style="white-space: pre;">Search articles...</text>
+  <circle cx="260" cy="180" r="10" fill="#eee"/>
+  <text x="260" y="184" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">🔍</text>
+  <text x="70" y="220" font-family="Arial" font-size="14" font-weight="bold" style="white-space: pre;">Featured Articles</text>
+  <text x="250" y="220" font-family="Arial" font-size="12" fill="#5cb9a7" style="white-space: pre;">See all</text>
+  <rect x="70" y="230" width="150" height="120" fill="#eaf5f3" rx="10" ry="10"/>
+  <rect x="230" y="230" width="50" height="120" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="145" y="310" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Healthy Eating for Toddlers</text>
+  <text x="145" y="330" font-family="Arial" font-size="10" text-anchor="middle" style="white-space: pre;">5 min read</text>
+  <text x="70" y="380" font-family="Arial" font-size="14" font-weight="bold" style="white-space: pre;">Categories</text>
+  <rect x="70" y="390" width="95" height="80" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="117" y="435" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Basics</text>
+  <rect x="175" y="390" width="95" height="80" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="222" y="435" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Recipes</text>
+  <rect x="70" y="480" width="95" height="80" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="117" y="525" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Growth</text>
+  <rect x="175" y="480" width="95" height="80" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="222" y="525" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">By Age</text>
+  <rect x="50" y="550" width="250" height="50" fill="#f6f6f6" rx="15" ry="15"/>
+  <circle cx="100" cy="575" r="15" fill="#eee"/>
+  <circle cx="175" cy="575" r="15" fill="#5cb9a7"/>
+  <circle cx="250" cy="575" r="15" fill="#eee"/>
+  <rect x="350" y="100" width="250" height="450" fill="white" stroke="#5cb9a7" stroke-width="2" rx="15" ry="15"/>
+  <text x="475" y="130" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" style="white-space: pre;">Nutrition Basics</text>
+  <circle cx="380" cy="130" r="15" fill="#f6f6f6"/>
+  <text x="380" y="135" font-family="Arial" font-size="14" text-anchor="middle" style="white-space: pre;">←</text>
+  <text x="475" y="165" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Essential nutrition concepts for</text>
+  <text x="475" y="180" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">children's healthy development</text>
+  <rect x="370" y="200" width="100" height="30" fill="#f6f6f6" rx="15" ry="15"/>
+  <text x="420" y="220" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Filter</text>
+  <rect x="480" y="200" width="100" height="30" fill="#f6f6f6" rx="15" ry="15"/>
+  <text x="530" y="220" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Sort: Newest</text>
+  <rect x="370" y="240" width="210" height="80" fill="white" stroke="#eee" stroke-width="1" rx="10" ry="10"/>
+  <rect x="380" y="250" width="60" height="60" fill="#eaf5f3" rx="5" ry="5"/>
+  <text x="470" y="270" font-family="Arial" font-size="12" font-weight="bold" style="white-space: pre;">Essential Nutrients</text>
+  <text x="470" y="290" font-family="Arial" font-size="10" style="white-space: pre;">What every parent should know</text>
+  <text x="470" y="305" font-family="Arial" font-size="10" fill="#888" style="white-space: pre;">3 min read</text>
+  <rect x="370" y="330" width="210" height="80" fill="white" stroke="#eee" stroke-width="1" rx="10" ry="10"/>
+  <rect x="380" y="340" width="60" height="60" fill="#eaf5f3" rx="5" ry="5"/>
+  <text x="470" y="360" font-family="Arial" font-size="12" font-weight="bold" style="white-space: pre;">Balanced Diet Guide</text>
+  <text x="470" y="380" font-family="Arial" font-size="10" style="white-space: pre;">Creating healthy habits early</text>
+  <text x="470" y="395" font-family="Arial" font-size="10" fill="#888" style="white-space: pre;">5 min read</text>
+  <rect x="370" y="420" width="210" height="80" fill="white" stroke="#eee" stroke-width="1" rx="10" ry="10"/>
+  <rect x="380" y="430" width="60" height="60" fill="#eaf5f3" rx="5" ry="5"/>
+  <text x="470" y="450" font-family="Arial" font-size="12" font-weight="bold" style="white-space: pre;">Understanding Macros</text>
+  <text x="470" y="470" font-family="Arial" font-size="10" style="white-space: pre;">Proteins, fats and carbs explained</text>
+  <text x="470" y="485" font-family="Arial" font-size="10" fill="#888" style="white-space: pre;">4 min read</text>
+  <rect x="350" y="550" width="250" height="50" fill="#f6f6f6" rx="15" ry="15"/>
+  <circle cx="400" cy="575" r="15" fill="#eee"/>
+  <circle cx="475" cy="575" r="15" fill="#5cb9a7"/>
+  <circle cx="550" cy="575" r="15" fill="#eee"/>
+  <rect x="650" y="100" width="250" height="700" fill="white" stroke="#5cb9a7" stroke-width="2" rx="15" ry="15"/>
+  <text x="775" y="130" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" style="white-space: pre;">Article Detail</text>
+  <circle cx="680" cy="130" r="15" fill="#f6f6f6"/>
+  <text x="680" y="135" font-family="Arial" font-size="14" text-anchor="middle" style="white-space: pre;">←</text>
+  <circle cx="840" cy="130" r="15" fill="#f6f6f6"/>
+  <text x="840" y="134" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">♡</text>
+  <circle cx="805" cy="130" r="15" fill="#f6f6f6"/>
+  <text x="805" y="134" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">⋮</text>
+  <rect x="670" y="160" width="210" height="150" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="775" y="240" font-family="Arial" font-size="14" text-anchor="middle" font-style="italic" style="white-space: pre;">Article Image</text>
+  <text x="670" y="330" font-family="Arial" font-size="18" font-weight="bold" style="white-space: pre;">Essential Nutrients</text>
+  <text x="670" y="355" font-family="Arial" font-size="14" fill="#888" style="white-space: pre;">By Nutritionist Team | March 15, 2025</text>
+  <line x1="670" y1="370" x2="880" y2="370" stroke="#eee" stroke-width="2"/>
+  <text x="670" y="390" font-family="Arial" font-size="14" style="white-space: pre;">This comprehensive guide explores</text>
+  <text x="670" y="410" font-family="Arial" font-size="14" style="white-space: pre;">the essential nutrients every child</text>
+  <text x="670" y="430" font-family="Arial" font-size="14" style="white-space: pre;">needs for healthy development.</text>
+  <rect x="670" y="450" width="210" height="2" fill="#eee"/>
+  <text x="670" y="480" font-family="Arial" font-size="14" font-weight="bold" style="white-space: pre;">Key Nutrients for Children</text>
+  <text x="670" y="505" font-family="Arial" font-size="14" style="white-space: pre;">• Proteins: Building blocks</text>
+  <text x="670" y="530" font-family="Arial" font-size="14" style="white-space: pre;">• Calcium: Bone development</text>
+  <text x="670" y="555" font-family="Arial" font-size="14" style="white-space: pre;">• Iron: Brain development</text>
+  <text x="670" y="580" font-family="Arial" font-size="14" style="white-space: pre;">• Vitamin D: Immune function</text>
+  <rect x="670" y="610" width="210" height="80" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="775" y="635" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold" style="white-space: pre;">Take Action</text>
+  <rect x="690" y="650" width="80" height="30" fill="#5cb9a7" rx="15" ry="15"/>
+  <text x="730" y="670" font-family="Arial" font-size="12" text-anchor="middle" fill="white" style="white-space: pre;">Apply</text>
+  <rect x="780" y="650" width="80" height="30" fill="white" stroke="#5cb9a7" stroke-width="1" rx="15" ry="15"/>
+  <text x="820" y="670" font-family="Arial" font-size="12" text-anchor="middle" fill="#5cb9a7" style="white-space: pre;">Consult</text>
+  <text x="670" y="710" font-family="Arial" font-size="14" font-weight="bold" style="white-space: pre;">Related Articles</text>
+  <rect x="670" y="720" width="100" height="70" fill="#f6f6f6" rx="8" ry="8"/>
+  <text x="720" y="760" font-family="Arial" font-size="10" text-anchor="middle" style="white-space: pre;">Meal Planning</text>
+  <rect x="780" y="720" width="100" height="70" fill="#f6f6f6" rx="8" ry="8"/>
+  <text x="830" y="760" font-family="Arial" font-size="10" text-anchor="middle" style="white-space: pre;">Healthy Snacks</text>
+  <rect x="650" y="800" width="250" height="50" fill="#f6f6f6" rx="15" ry="15"/>
+  <circle cx="700" cy="825" r="15" fill="#eee"/>
+  <circle cx="775" cy="825" r="15" fill="#5cb9a7"/>
+  <circle cx="850" cy="825" r="15" fill="#eee"/>
+  <rect x="50" y="650" width="250" height="450" fill="white" stroke="#5cb9a7" stroke-width="2" rx="15" ry="15"/>
+  <text x="175" y="680" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" style="white-space: pre;">Learning Paths</text>
+  <circle cx="80" cy="680" r="15" fill="#f6f6f6"/>
+  <text x="80" y="685" font-family="Arial" font-size="14" text-anchor="middle" style="white-space: pre;">←</text>
+  <text x="175" y="710" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Structured learning journeys</text>
+  <rect x="70" y="730" width="210" height="100" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="175" y="755" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold" style="white-space: pre;">First 1000 Days</text>
+  <text x="175" y="775" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Nutrition from pregnancy to age 2</text>
+  <rect x="90" y="790" width="170" height="8" fill="#ddd" rx="4" ry="4"/>
+  <rect x="90" y="790" width="85" height="8" fill="#5cb9a7" rx="4" ry="4"/>
+  <text x="175" y="810" font-family="Arial" font-size="10" text-anchor="middle" style="white-space: pre;">4/8 articles completed</text>
+  <rect x="70" y="840" width="210" height="100" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="175" y="865" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold" style="white-space: pre;">Picky Eater Solutions</text>
+  <text x="175" y="885" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Strategies for fussy children</text>
+  <rect x="90" y="900" width="170" height="8" fill="#ddd" rx="4" ry="4"/>
+  <rect x="90" y="900" width="40" height="8" fill="#5cb9a7" rx="4" ry="4"/>
+  <text x="175" y="920" font-family="Arial" font-size="10" text-anchor="middle" style="white-space: pre;">2/10 articles completed</text>
+  <rect x="70" y="950" width="210" height="100" fill="#eaf5f3" rx="10" ry="10"/>
+  <text x="175" y="975" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold" style="white-space: pre;">Preventing Stunting</text>
+  <text x="175" y="995" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Complete nutrition guide</text>
+  <rect x="90" y="1010" width="170" height="8" fill="#ddd" rx="4" ry="4"/>
+  <rect x="90" y="1010" width="0" height="8" fill="#5cb9a7" rx="4" ry="4"/>
+  <text x="175" y="1030" font-family="Arial" font-size="10" text-anchor="middle" style="white-space: pre;">0/6 articles completed</text>
+  <rect x="50" y="1100" width="250" height="50" fill="#f6f6f6" rx="15" ry="15"/>
+  <circle cx="100" cy="1125" r="15" fill="#eee"/>
+  <circle cx="175" cy="1125" r="15" fill="#5cb9a7"/>
+  <circle cx="250" cy="1125" r="15" fill="#eee"/>
+  <rect x="350" y="650" width="250" height="450" fill="white" stroke="#5cb9a7" stroke-width="2" rx="15" ry="15"/>
+  <text x="475" y="680" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" style="white-space: pre;">First 1000 Days</text>
+  <circle cx="380" cy="680" r="15" fill="#f6f6f6"/>
+  <text x="380" y="685" font-family="Arial" font-size="14" text-anchor="middle" style="white-space: pre;">←</text>
+  <text x="475" y="710" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">Your progress: 4/8 articles</text>
+  <rect x="370" y="720" width="210" height="8" fill="#ddd" rx="4" ry="4"/>
+  <rect x="370" y="720" width="105" height="8" fill="#5cb9a7" rx="4" ry="4"/>
+  <rect x="370" y="740" width="210" height="60" fill="#eaf5f3" rx="10" ry="10"/>
+  <circle cx="390" cy="770" r="10" fill="#5cb9a7"/>
+  <text x="390" y="774" font-family="Arial" font-size="12" text-anchor="middle" fill="white" style="white-space: pre;">✓</text>
+  <text x="410" y="765" font-family="Arial" font-size="12" transform="translate(410,765)" style="white-space: pre;">1. Pregnancy Nutrition</text>
+  <text x="410" y="780" font-family="Arial" font-size="10" fill="#888" transform="translate(410,780)" style="white-space: pre;">Completed</text>
+  <rect x="370" y="810" width="210" height="60" fill="#eaf5f3" rx="10" ry="10"/>
+  <circle cx="390" cy="840" r="10" fill="#5cb9a7"/>
+  <text x="390" y="844" font-family="Arial" font-size="12" text-anchor="middle" fill="white" style="white-space: pre;">✓</text>
+  <text x="410" y="835" font-family="Arial" font-size="12" transform="translate(410,835)" style="white-space: pre;">2. Breastfeeding Basics</text>
+  <text x="410" y="850" font-family="Arial" font-size="10" fill="#888" transform="translate(410,850)" style="white-space: pre;">Completed</text>
+  <rect x="370" y="880" width="210" height="60" fill="#ffffff" stroke="#eaf5f3" stroke-width="2" rx="10" ry="10"/>
+  <circle cx="390" cy="910" r="10" fill="#f6f6f6"/>
+  <text x="390" y="914" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">3</text>
+  <text x="410" y="905" font-family="Arial" font-size="12" transform="translate(410,905)" style="white-space: pre;">3. First Foods Introduction</text>
+  <text x="410" y="920" font-family="Arial" font-size="10" fill="#5cb9a7" transform="translate(410,920)" style="white-space: pre;">Continue reading →</text>
+  <rect x="370" y="950" width="210" height="60" fill="#ffffff" stroke="#eaf5f3" stroke-width="2" rx="10" ry="10"/>
+  <circle cx="390" cy="980" r="10" fill="#f6f6f6"/>
+  <text x="390" y="984" font-family="Arial" font-size="12" text-anchor="middle" style="white-space: pre;">4</text>
+  <text x="410" y="975" font-family="Arial" font-size="12" transform="translate(410,975)" style="white-space: pre;">4. Nutrient-Rich Baby Foods</text>
+  <text x="410" y="990" font-family="Arial" font-size="10" fill="#888" transform="translate(410,990)" style="white-space: pre;">Locked</text>
+  <rect x="350" y="1100" width="250" height="50" fill="#f6f6f6" rx="15" ry="15"/>
+  <circle cx="400" cy="1125" r="15" fill="#eee"/>
+  <circle cx="475" cy="1125" r="15" fill="#5cb9a7"/>
+  <circle cx="550" cy="1125" r="15" fill="#eee"/>
+  <rect x="650" y="950" width="250" height="450" fill="white" stroke="#5cb9a7" stroke-width="2" rx="15" ry="15"/>
+  <text x="775" y="980" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" style="white-space: pre;">Saved Articles</text>
+  <circle cx="680" cy="980" r="15" fill="#f6f6f6"/>
+  <text x="680" y="985" font-family="Arial" font-size="14" text-anchor="middle" style="white-space: pre;">←</text>
+  <line x1="670" y1="1010" x2="880" y2="1010" stroke="#eee" stroke-width="2"/>
+  <text x="710" y="1005" font-family="Arial" font-size="12" fill="#5cb9a7" font-weight="bold" style="white-space: pre;">Saved</text>
+  <line x1="670" y1="1010" x2="750" y2="1010" stroke="#5cb9a7" stroke-width="2"/>
+  <text x="800" y="1005" font-family="Arial" font-size="12" fill="#888" style="white-space: pre;">History</text>
+  <rect x="670" y="1030" width="210" height="80" fill="white" stroke="#eee" stroke-width="1" rx="10" ry="10"/>
+  <rect x="680" y="1040" width="60" height="60" fill="#eaf5f3" rx="5" ry="5"/>
+  <text x="770" y="1060" font-family="Arial" font-size="12" font-weight="bold" style="white-space: pre;">Essential Nutrients</text>
+  <text x="770" y="1080" font-family="Arial" font-size="10" style="white-space: pre;">What every parent should know</text>
+  <text x="850" y="1050" font-family="Arial" font-size="10" fill="#888" style="white-space: pre;">Mar 15</text>
+  <rect x="670" y="1120" width="210" height="80" fill="white" stroke="#eee" stroke-width="1" rx="10" ry="10"/>
+  <rect x="680" y="1130" width="60" height="60" fill="#eaf5f3" rx="5" ry="5"/>
+  <text x="770" y="1150" font-family="Arial" font-size="12" font-weight="bold" style="white-space: pre;">Meal Planning Guide</text>
+  <text x="770" y="1170" font-family="Arial" font-size="10" style="white-space: pre;">Weekly meal ideas for toddlers</text>
+  <text x="850" y="1140" font-family="Arial" font-size="10" fill="#888" style="white-space: pre;">Mar 12</text>
+  <rect x="670" y="1210" width="210" height="80" fill="white" stroke="#eee" stroke-width="1" rx="10" ry="10"/>
+  <rect x="680" y="1220" width="60" height="60" fill="#eaf5f3" rx="5" ry="5"/>
+  <text x="770" y="1240" font-family="Arial" font-size="12" font-weight="bold" style="white-space: pre;">Growth Chart Guide</text>
+  <text x="770" y="1260" font-family="Arial" font-size="10" style="white-space: pre;">Understanding WHO standards</text>
+  <text x="850" y="1230" font-family="Arial" font-size="10" fill="#888" style="white-space: pre;">Mar 10</text>
+  <text x="775" y="1330" font-family="Arial" font-size="12" text-anchor="middle" fill="#888" style="white-space: pre;">Tap ♡ on articles to save them here</text>
+  <rect x="650" y="1400" width="250" height="50" fill="#f6f6f6" rx="15" ry="15"/>
+  <circle cx="700" cy="1425" r="15" fill="#eee"/>
+  <circle cx="775" cy="1425" r="15" fill="#5cb9a7"/>
+  <circle cx="850" cy="1425" r="15" fill="#eee"/>
+  <path d="M 300 350 L 325 350 L 325 350 L 350 350" stroke="#5cb9a7" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 600 350 L 625 350 L 625 350 L 650 350" stroke="#5cb9a7" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 175 550 L 175 580 L 175 580 L 175 650" stroke="#5cb9a7" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 300 850 L 325 850 L 325 850 L 350 850" stroke="#5cb9a7" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 475 650 L 475 600 L 626.425 600 L 625.945 401.129 L 650 400" stroke="#5cb9a7" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 840 134 L 943.842 134 L 943.842 980 L 860 980" stroke="#5cb9a7" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrow)"/>
+  <path d="M 730 680.392 L 730 755.774 L 730 850" stroke="#5cb9a7" stroke-width="2" fill="none" stroke-dasharray="5,5" style=""/>
+  <text x="730" y="870" font-family="Arial" font-size="12" fill="#5cb9a7" style="white-space: pre;">Apply to Meal Plan</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#5cb9a7"/>
+    </marker>
+  </defs>
+</svg>

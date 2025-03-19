@@ -1,0 +1,79 @@
+<svg width="360" height="720" viewBox="0 0 360 720" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="360" height="720" fill="#FFFFFF"/>
+  
+  <!-- Top App Bar -->
+  <rect width="360" height="56" fill="#2E7D32"/>
+  <text x="160" y="35" font-family="Nunito" font-size="18" font-weight="600" fill="white" text-anchor="middle">Growth Assessment</text>
+  <!-- Back Arrow -->
+  <path d="M24 28 L36 16 M24 28 L36 40" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Child Info Card -->
+  <rect x="16" y="72" width="328" height="60" rx="12" fill="white"/>
+  <rect x="16" y="72" width="328" height="60" rx="12" stroke="#E0E0E0" stroke-width="1" fill="none"/>
+  <text x="32" y="96" font-family="Nunito" font-size="16" font-weight="600" fill="#212121">Amir, 2 years 3 months</text>
+  <text x="32" y="120" font-family="Open Sans" font-size="12" font-weight="400" fill="#616161">Assessment based on latest measurements</text>
+  
+  <!-- Overall Growth Status Card -->
+  <rect x="16" y="148" width="328" height="120" rx="12" fill="white"/>
+  <rect x="16" y="148" width="328" height="120" rx="12" stroke="#E0E0E0" stroke-width="1" fill="none"/>
+  
+  <text x="32" y="172" font-family="Nunito" font-size="18" font-weight="600" fill="#212121">Overall Growth Status</text>
+  
+  <text x="32" y="200" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">Amir is growing normally according to</text>
+  <text x="32" y="224" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">WHO child growth standards.</text>
+  
+  <text x="32" y="252" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">No signs of stunting, wasting, or</text>
+  <text x="32" y="276" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">overweight detected.</text>
+  
+  <!-- Height-for-Age Card -->
+  <rect x="16" y="284" width="328" height="160" rx="12" fill="white"/>
+  <rect x="16" y="284" width="328" height="160" rx="12" stroke="#E0E0E0" stroke-width="1" fill="none"/>
+  
+  <text x="32" y="308" font-family="Nunito" font-size="18" font-weight="600" fill="#212121">Height-for-Age</text>
+  
+  <text x="32" y="336" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">Current: 85 cm (45th percentile)</text>
+  
+  <!-- Status Indicator -->
+  <text x="32" y="364" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">Status: </text>
+  <text x="84" y="364" font-family="Open Sans" font-size="14" font-weight="400" fill="#4CAF50">Normal</text>
+  <circle cx="130" cy="360" r="8" fill="#4CAF50" fill-opacity="0.2"/>
+  <path d="M126 360L129 363L134 358" stroke="#4CAF50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <text x="32" y="392" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">Amir's height is in the normal range</text>
+  <text x="32" y="416" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">for his age, showing consistent growth.</text>
+  
+  <!-- View Chart Button -->
+  <rect x="32" y="424" width="90" height="36" rx="4" fill="white"/>
+  <text x="77" y="448" font-family="Nunito" font-size="14" font-weight="600" fill="#2E7D32" text-anchor="middle">View Chart</text>
+  
+  <!-- Weight-for-Age Card -->
+  <rect x="16" y="460" width="328" height="160" rx="12" fill="white"/>
+  <rect x="16" y="460" width="328" height="160" rx="12" stroke="#E0E0E0" stroke-width="1" fill="none"/>
+  
+  <text x="32" y="484" font-family="Nunito" font-size="18" font-weight="600" fill="#212121">Weight-for-Age</text>
+  
+  <text x="32" y="512" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">Current: 12 kg (50th percentile)</text>
+  
+  <!-- Status Indicator -->
+  <text x="32" y="540" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">Status: </text>
+  <text x="84" y="540" font-family="Open Sans" font-size="14" font-weight="400" fill="#4CAF50">Normal</text>
+  <circle cx="130" cy="536" r="8" fill="#4CAF50" fill-opacity="0.2"/>
+  <path d="M126 536L129 539L134 534" stroke="#4CAF50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <text x="32" y="568" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">Amir's weight is appropriate for his</text>
+  <text x="32" y="592" font-family="Open Sans" font-size="14" font-weight="400" fill="#212121">age, following the expected pattern.</text>
+  
+  <!-- View Chart Button -->
+  <rect x="32" y="600" width="90" height="36" rx="4" fill="white"/>
+  <text x="77" y="624" font-family="Nunito" font-size="14" font-weight="600" fill="#2E7D32" text-anchor="middle">View Chart</text>
+  
+  <!-- Weight-for-Height Status (Partially visible) -->
+  <rect x="16" y="636" width="328" height="30" rx="12" fill="white"/>
+  <rect x="16" y="636" width="328" height="30" rx="12" stroke="#E0E0E0" stroke-width="1" fill="none"/>
+  <text x="32" y="656" font-family="Nunito" font-size="18" font-weight="600" fill="#212121">Weight-for-Height</text>
+  
+  <!-- View Recommendations Button -->
+  <rect x="16" y="672" width="328" height="48" rx="8" fill="#2E7D32"/>
+  <text x="180" y="704" font-family="Nunito" font-size="14" font-weight="600" fill="white" text-anchor="middle">View Recommendations</text>
+</svg>

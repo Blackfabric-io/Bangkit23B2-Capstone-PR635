@@ -1,0 +1,122 @@
+# NutriGenius Model Configuration
+
+# General configuration
+general:
+  seed: 42
+  output_dir: "../models"
+  log_level: "INFO"
+
+# Face detection and age/gender classification
+face_detection:
+  # Face detection model
+  face_detection_model: "haarcascade"  # Options: haarcascade, mtcnn, etc.
+  haarcascade_path: null  # Uses default OpenCV path if null
+  detection_scale_factor: 1.1
+  detection_min_neighbors: 5
+  detection_min_size: [30, 30]
+  
+  # Age model
+  age_model:
+    input_shape: [200, 200, 3]
+    model_type: "cnn"  # Options: cnn, mobilenetv2, efficientnet
+    training:
+      epochs: 50
+      batch_size: 32
+      learning_rate: 0.001
+      early_stopping_patience: 10
+    augmentation:
+      enabled: true
+      horizontal_flip: true
+      rotation_range: 20
+      zoom_range: 0.1
+      brightness_range: [0.9, 1.1]
+  
+  # Gender model
+  gender_model:
+    input_shape: [200, 200, 3]
+    model_type: "cnn"  # Options: cnn, mobilenetv2, efficientnet
+    training:
+      epochs: 30
+      batch_size: 32
+      learning_rate: 0.001
+      early_stopping_patience: 5
+    augmentation:
+      enabled: true
+      horizontal_flip: true
+      rotation_range: 20
+      zoom_range: 0.1
+      brightness_range: [0.9, 1.1]
+
+# Food object detection
+food_detection:
+  model_type: "efficientdet"  # Options: efficientdet, ssd_mobilenet
+  input_shape: [512, 512, 3]
+  detection_threshold: 0.5
+  iou_threshold: 0.5
+  max_detections: 10
+  training:
+    epochs: 50
+    batch_size: 8
+    learning_rate: 0.0001
+    early_stopping_patience: 10
+  augmentation:
+    enabled: true
+    horizontal_flip: true
+    vertical_flip: false
+    rotation_range: 20
+    brightness_range: [0.8, 1.2]
+  transfer_learning:
+    enabled: true
+    base_model: "efficientdet-d0"
+    trainable_layers: 10
+
+# Article recommendation
+article_recommender:
+  model_type: "tfidf"  # Options: tfidf, word2vec, bert
+  max_features: 5000
+  top_n: 5
+  training:
+    test_size: 0.2
+    random_state: 42
+  preprocessing:
+    lowercase: true
+    remove_punctuation: true
+    remove_stopwords: true
+    stemming: false
+    language: "english"
+
+# TFLite conversion settings
+tflite_conversion:
+  optimization: "DEFAULT"  # Options: DEFAULT, OPTIMIZE_FOR_SIZE, OPTIMIZE_FOR_LATENCY
+  quantization: false
+  supported_ops: "TFLITE_BUILTINS"
+  experimental_new_converter: true
+
+# Dataset paths
+dataset:
+  face:
+    train_dir: "../data/raw/UTKFace"
+    processed_dir: "../data/processed/UTKFace"
+    metadata_file: "../data/processed/UTKFace/metadata.csv"
+  food:
+    train_dir: "../data/raw/food_images"
+    processed_dir: "../data/processed/food_images"
+    labels_file: "../data/raw/food_images/labels.txt"
+  articles:
+    data_file: "../data/raw/articles/nutrition_articles.csv"
+    processed_file: "../data/processed/articles/processed_articles.csv"
+
+# Model save paths
+model_paths:
+  face_detection:
+    age_model: "../models/face_detection/age_model"
+    gender_model: "../models/face_detection/gender_model"
+    tflite_age_model: "../assets/ml/face_age_classifier.tflite"
+    tflite_gender_model: "../assets/ml/face_gender_classifier.tflite"
+  food_detection:
+    model: "../models/object_detection/food_detector"
+    tflite_model: "../assets/ml/object_detector.tflite"
+    labels: "../assets/ml/object_labels.txt"
+  article_recommender:
+    model: "../models/article_recommender/recommender_model.pkl"
+    data: "../assets/data/articles_data.json" 

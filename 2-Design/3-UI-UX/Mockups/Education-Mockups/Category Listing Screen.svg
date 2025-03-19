@@ -1,0 +1,80 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background -->
+  <rect width="400" height="800" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Age-Based Nutrition</text>
+  
+  <!-- Search Bar -->
+  <rect x="20" y="110" width="360" height="45" rx="8" ry="8" fill="#F5F5F5"/>
+  <text x="55" y="138" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">Search in this category...</text>
+  <text x="35" y="138" font-family="Nunito, sans-serif" font-size="16" fill="#757575">🔍</text>
+  
+  <!-- Filters -->
+  <text x="20" y="180" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Filter:</text>
+  <circle cx="120" cy="180" r="8" fill="#2E7D32"/>
+  <circle cx="120" cy="180" r="4" fill="white"/>
+  <text x="135" y="185" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Relevant to Amir (2y)</text>
+  
+  <circle cx="290" cy="180" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="305" y="185" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">All Ages</text>
+  
+  <!-- Sort Options -->
+  <text x="20" y="215" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Sort by:</text>
+  <circle cx="100" cy="215" r="8" fill="#2E7D32"/>
+  <text x="115" y="220" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Recommended</text>
+  
+  <circle cx="220" cy="215" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="235" y="220" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Newest</text>
+  
+  <circle cx="320" cy="215" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="335" y="220" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Popular</text>
+  
+  <!-- Article Cards -->
+  <!-- Article 1 -->
+  <rect x="20" y="245" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="260" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="290" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">🍎</text>
+  <text x="95" y="270" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Nutrition Needs: Ages 2-3</text>
+  <text x="95" y="290" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Key nutrients and portion sizes for</text>
+  <text x="95" y="310" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">toddlers entering the preschool years.</text>
+  <text x="35" y="335" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">6 min read  •  Recommended for you</text>
+  
+  <!-- Article 2 -->
+  <rect x="20" y="355" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="370" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="400" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">🥣</text>
+  <text x="95" y="380" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Transitioning from Milk to Solid Foods</text>
+  <text x="95" y="400" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">When and how to introduce new textures</text>
+  <text x="95" y="420" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">and food groups.</text>
+  <text x="35" y="445" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">8 min read  •  Popular</text>
+  
+  <!-- Article 3 -->
+  <rect x="20" y="465" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="480" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="510" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">📋</text>
+  <text x="95" y="490" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Meal Planning for Toddlers</text>
+  <text x="95" y="510" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Creating balanced meals that meet</text>
+  <text x="95" y="530" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">nutritional needs while managing picky eating.</text>
+  <text x="35" y="555" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">7 min read</text>
+  
+  <!-- Article 4 -->
+  <rect x="20" y="575" width="360" height="100" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="35" y="590" width="50" height="50" rx="4" ry="4" fill="#C8E6C9"/>
+  <text x="60" y="620" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="#1B5E20">🥪</text>
+  <text x="95" y="600" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#1B5E20">Snack Ideas for Preschoolers</text>
+  <text x="95" y="620" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">Healthy, easy-to-prepare snacks that</text>
+  <text x="95" y="640" font-family="Open Sans, sans-serif" font-size="12" fill="#424242">support growth and development.</text>
+  <text x="35" y="665" font-family="Open Sans, sans-serif" font-size="12" fill="#757575">5 min read</text>
+  
+  <!-- Load More Button -->
+  <rect x="100" y="695" width="200" height="40" rx="20" ry="20" fill="white" stroke="#2E7D32" stroke-width="1"/>
+  <text x="200" y="720" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2E7D32">Load More Articles</text>
+</svg>

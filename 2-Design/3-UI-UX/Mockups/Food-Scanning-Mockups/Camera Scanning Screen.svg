@@ -1,0 +1,40 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <!-- Background - Dark for camera view -->
+  <rect width="400" height="800" fill="#1A1A1A"/>
+  
+  <!-- Camera Viewfinder -->
+  <rect x="20" y="100" width="360" height="500" rx="8" ry="8" fill="#000000" stroke="#2E7D32" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Focus Area Indicator -->
+  <circle cx="200" cy="350" r="100" fill="none" stroke="#2E7D32" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Guidance Text -->
+  <text x="200" y="650" font-family="Nunito, sans-serif" font-size="16" font-weight="600" text-anchor="middle" fill="white">Center food in the frame</text>
+  
+  <!-- Camera Controls -->
+  <rect x="100" y="700" width="200" height="60" rx="30" ry="30" fill="#333333"/>
+  
+  <!-- Gallery Button -->
+  <rect x="120" y="710" width="40" height="40" rx="20" ry="20" fill="#333333" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="140" y="735" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="white">🖼️</text>
+  
+  <!-- Capture Button -->
+  <circle cx="200" cy="730" r="25" fill="white" stroke="#2E7D32" stroke-width="3"/>
+  
+  <!-- Settings Button -->
+  <rect x="240" y="710" width="40" height="40" rx="20" ry="20" fill="#333333" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="260" y="735" font-family="Nunito, sans-serif" font-size="18" text-anchor="middle" fill="white">⚙️</text>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#000000"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="white">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="white">100%</text>
+  
+  <!-- Back Button -->
+  <circle cx="30" cy="50" r="20" fill="#333333" fill-opacity="0.7"/>
+  <text x="30" y="55" font-family="Nunito, sans-serif" font-size="20" text-anchor="middle" fill="white">←</text>
+  
+  <!-- Flash Button -->
+  <circle cx="370" cy="50" r="20" fill="#333333" fill-opacity="0.7"/>
+  <text x="370" y="55" font-family="Nunito, sans-serif" font-size="16" text-anchor="middle" fill="white">⚡</text>
+</svg>

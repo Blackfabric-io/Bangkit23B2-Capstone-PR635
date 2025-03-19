@@ -1,0 +1,72 @@
+<svg width="400" height="900" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 900">
+  <!-- Background -->
+  <rect width="400" height="900" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Stunting Prevention</text>
+  
+  <!-- Path Banner -->
+  <rect x="20" y="110" width="360" height="120" rx="8" ry="8" fill="#C8E6C9"/>
+  <text x="200" y="170" font-family="Nunito, sans-serif" font-size="30" text-anchor="middle" fill="#1B5E20">🌱</text>
+  
+  <!-- Path Description -->
+  <text x="20" y="260" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Understanding and preventing stunting in</text>
+  <text x="20" y="280" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">early childhood through proper nutrition</text>
+  <text x="20" y="300" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">and monitoring.</text>
+  
+  <!-- Progress Indicator -->
+  <text x="20" y="340" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Your Progress: 30% Complete</text>
+  <rect x="20" y="355" width="360" height="15" rx="7.5" ry="7.5" fill="#F5F5F5"/>
+  <rect x="20" y="355" width="108" height="15" rx="7.5" ry="7.5" fill="#2E7D32"/>
+  
+  <!-- Module 1 -->
+  <rect x="20" y="390" width="360" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="415" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Module 1: Understanding Stunting</text>
+  
+  <text x="35" y="445" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">✓ What is Stunting?</text>
+  <text x="35" y="470" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">✓ Causes and Risk Factors</text>
+  <text x="35" y="495" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">✓ Long-term Impact on Development</text>
+  
+  <rect x="35" y="505" width="100" height="30" rx="15" ry="15" fill="#C8E6C9"/>
+  <text x="85" y="525" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#1B5E20">Completed</text>
+  
+  <!-- Module 2 -->
+  <rect x="20" y="520" width="360" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="545" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Module 2: Nutrition Fundamentals</text>
+  
+  <text x="35" y="575" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">✓ Essential Nutrients for Growth</text>
+  <text x="35" y="600" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">► Key Foods to Prevent Stunting</text>
+  <text x="35" y="625" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">○ Creating Balanced Meals</text>
+  
+  <rect x="35" y="635" width="150" height="30" rx="15" ry="15" fill="#2E7D32"/>
+  <text x="110" y="655" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="white">Continue Learning</text>
+  
+  <!-- Module 3 -->
+  <rect x="20" y="650" width="360" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="675" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#757575">Module 3: Growth Monitoring</text>
+  
+  <text x="35" y="705" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">○ Understanding Growth Charts</text>
+  <text x="35" y="730" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">○ Regular Measurement Techniques</text>
+  <text x="35" y="755" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">○ When to Consult a Healthcare Provider</text>
+  
+  <rect x="35" y="765" width="260" height="30" rx="15" ry="15" fill="#F5F5F5"/>
+  <text x="165" y="785" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#757575">Locked - Complete Module 2 First</text>
+  
+  <!-- Module 4 -->
+  <rect x="20" y="780" width="360" height="120" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="805" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#757575">Module 4: Practical Implementation</text>
+  
+  <text x="35" y="835" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">○ Meal Planning Strategies</text>
+  <text x="35" y="860" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">○ Addressing Feeding Challenges</text>
+  <text x="35" y="885" font-family="Open Sans, sans-serif" font-size="14" fill="#757575">○ Community Resources</text>
+  
+  <rect x="35" y="895" width="260" height="30" rx="15" ry="15" fill="#F5F5F5"/>
+  <text x="165" y="915" font-family="Nunito, sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#757575">Locked - Complete Module 3 First</text>
+</svg>

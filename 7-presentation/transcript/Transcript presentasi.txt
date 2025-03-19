@@ -1,0 +1,65 @@
+
+1. Hello everyone, we are from NutriGenius will  give you inroduction and brief explanation about our project
+
+2. Before we Jump into the topic, let me introduce our great team member. There is... as MD, _.. as ML ,... as ML,... as CC, .. as CC,... as CC
+
+3. Stunting is a nutritional problem that needs special treatment, especially in poor and developing countries. Literally, stunting is a condition of failure to grow in children under five caused by chronic nutritional deficiencies and the inability to meet the child's nutritional standards.​
+
+Based on data from the Ministry of Health, before the  COVID-19 pandemic, around 6.3 million toddlers out of  23 million Indonesia's toddler population experienced stunting. In fact, the prevalence of stunted toddlers in Indonesia in 2019 reached 27.7%. This puts Indonesia in fourth place globally as the country with the highest cases of stunting.​
+
+4. The first cause if human right issue in Indonesia, If left unchecked for a long time, Indonesia will indirectly ignore human rights in terms of the welfare of its people.​
+
+Second, it will have negative impact on our economy, because stunting will have an impact on the country's economic progress due to inadequate human resources.​
+
+Third, Indonesia has the potential to get a bad reputation in the international world, which is correlated with stunting cases which are still high.​
+
+So we are standing here to hold the cause through NutriGenius and help contibuting to our Nation
+
+5. Of course, all parties involved want to create new breakthroughs to reduce the frequency of stunting in Indonesia. Various efforts have been made to achieve this. In our group, we take the initiative to differentiate through certain features:​
+
+Food scanning feature that shows the nutritional levels contained​
+
+Article features as a form of education for parents​
+
+Consultation feature with nutrition experts to obtain constructive recommendations​
+
+Our group see that these three points are still rarely found in other product prototypes. The hope is that the features described above will maximize the real reduction in stunting in Indonesia.​
+
+6. Is an innovative project that aims to overcome the problem of stunting in Indonesian children through a combination of technology and nutrition education.​
+
+7. provides recommendations for balanced menus and nutritious food recipes according to the nutritional status data entered. Users can also obtain information regarding the urgency of certain nutritional intake for children's optimal growth.​
+
+8. Provides recommendations for balanced menus and nutritious food recipes according to the nutritional status data entered. Users can also obtain information regarding the urgency of certain nutritional intake for children's optimal growth.​
+
+9. Provides health articles and educational information about nutrition to help inspire parents to understand their children's nutritional needs.​
+
+10. Provides food photo-taking services using cell phone cameras; The application will automatically identify types of food and provide an overview of their nutritional composition, making it easier for users to make wise decisions regarding their child's growth and development.​
+
+11. This project not only includes the development of machine learning models, but also focuses on data understanding and exploration of various algorithms. The integration of TensorFlow allows exploration into deep learning approaches that can improve model performance beyond traditional models.​
+
+12. A mobile application developed with a focus on using the latest tools in mobile development. The app aims to provide an intuitive and engaging user experience in recording and organizing daily life.​
+
+13. This project demonstrates the robust integration between Node.js, Firebase, and Google Cloud Platform to provide a stable, scalable, and user-friendly cloud solution for team task management.​
+
+14.
+
+15.
+
+16.
+
+17.
+
+18. In strategizing the local deployment of NutriGenius, we're meticulously engaging key stakeholders, aligning with local health authorities and community organizations. Our focus includes optimizing the app for local infrastructure, ensuring a smooth integration process. With a user-friendly onboarding system in place and community-centric engagement initiatives, we aim to create widespread awareness and accessibility.​
+
+Simultaneously, our business pitch emphasizes NutriGenius's value, highlighting user-friendly features, real-time monitoring, and positive impacts on childhood nutrition. The go-to-market proposal entails a targeted marketing approach, competitive pricing, and strategic partnerships with local institutions for extended outreach. This comprehensive strategy is designed to seamlessly introduce NutriGenius to the local community, aligning with their needs and promoting sustainable health initiatives.​
+
+19. So who exactly our market target? first, we aim parents or caregivers wich commonly have direct contact to their children, Then, we also aim to Health instructor or personal trainer and medical workers to help them diagnosing stuting and anticipating it more effective and efficient
+
+20.
+
+21. Closing
+
+
+
+
+

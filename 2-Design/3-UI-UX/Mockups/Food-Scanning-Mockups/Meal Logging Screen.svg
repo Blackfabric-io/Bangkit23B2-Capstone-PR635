@@ -1,0 +1,61 @@
+<svg width="400" height="900" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 900">
+  <!-- Background -->
+  <rect width="400" height="900" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="400" height="30" fill="#f8f9fa"/>
+  <text x="20" y="20" font-family="Open Sans, sans-serif" font-size="12" fill="#333">9:41</text>
+  <text x="380" y="20" font-family="Open Sans, sans-serif" font-size="12" text-anchor="end" fill="#333">100%</text>
+  
+  <!-- App Header -->
+  <rect x="0" y="30" width="400" height="60" fill="#2E7D32"/>
+  <text x="20" y="65" font-family="Nunito, sans-serif" font-size="20" fill="white">←</text>
+  <text x="200" y="65" font-family="Nunito, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="white">Add to Meal Log</text>
+  
+  <!-- Food Title and Portion -->
+  <text x="20" y="120" font-family="Nunito, sans-serif" font-size="16" font-weight="600" fill="#1B5E20">Apple, Red Delicious</text>
+  <text x="20" y="145" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">1 medium apple (182g)</text>
+  
+  <!-- Child Selection -->
+  <text x="20" y="185" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">For which child?</text>
+  <rect x="20" y="195" width="360" height="48" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="225" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Amir</text>
+  <text x="350" y="225" font-family="Nunito, sans-serif" font-size="14" text-anchor="end" fill="#424242">▼</text>
+  
+  <!-- Meal Type Selection -->
+  <text x="20" y="275" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Meal type</text>
+  <rect x="20" y="285" width="360" height="180" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <circle cx="40" cy="315" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="60" y="320" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Breakfast</text>
+  
+  <circle cx="40" cy="345" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="60" y="350" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Morning Snack</text>
+  
+  <circle cx="40" cy="375" r="8" fill="#2E7D32"/>
+  <circle cx="40" cy="375" r="4" fill="white"/>
+  <text x="60" y="380" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Lunch</text>
+  
+  <circle cx="40" cy="405" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="60" y="410" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Afternoon Snack</text>
+  
+  <circle cx="40" cy="435" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="60" y="440" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Dinner</text>
+  
+  <circle cx="40" cy="465" r="8" fill="white" stroke="#757575" stroke-width="1"/>
+  <text x="60" y="470" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Evening Snack</text>
+  
+  <!-- Time Selection -->
+  <text x="20" y="505" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">When consumed?</text>
+  <rect x="20" y="515" width="360" height="48" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="35" y="545" font-family="Open Sans, sans-serif" font-size="14" fill="#424242">Today, 12:30 PM</text>
+  <text x="350" y="545" font-family="Nunito, sans-serif" font-size="14" text-anchor="end" fill="#424242">📅</text>
+  
+  <!-- Notes Field -->
+  <text x="20" y="595" font-family="Nunito, sans-serif" font-size="14" font-weight="600" fill="#424242">Notes (optional)</text>
+  <rect x="20" y="605" width="360" height="80" rx="8" ry="8" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <!-- Save Button -->
+  <rect x="20" y="715" width="360" height="48" rx="8" ry="8" fill="#2E7D32"/>
+  <text x="200" y="745" font-family="Nunito, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="white">Save to Meal Log</text>
+</svg>
