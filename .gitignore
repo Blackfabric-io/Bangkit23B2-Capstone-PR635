@@ -86,6 +86,38 @@ out/
 */app/src/main/assets/ml/models/*.zip
 */app/src/main/assets/ml/models/*.tar.gz
 
+# Dataset files
+dataset/
+datasets/
+data/
+*/dataset/
+*/datasets/
+*/data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.jsonl
+*.parquet
+*.arrow
+*.feather
+**/raw_data/
+**/processed_data/
+**/interim_data/
+**/external_data/
+**/train/
+**/test/
+**/val/
+**/validation/
+*.gz
+*.zip
+*.tar
+*.7z
+*.rar
+*_dataset*/
+*_data*/
+
 # Python
 __pycache__/
 *.py[cod]
