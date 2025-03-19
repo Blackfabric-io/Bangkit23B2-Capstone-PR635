@@ -5,6 +5,9 @@ _docs/
 _*/
 logo
 .vscode/
+*.canvas
+4-report/
+5-presentation/
 Bangkit-23-Capstone-PR635-NutiGenius.md
 
 # Flutter/Dart
