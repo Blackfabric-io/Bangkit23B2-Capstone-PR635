@@ -1,27 +1,7 @@
-> [!info]
-> ## Table of Contents
-> - [Table of Contents](#table-of-contents)
-> - [Project Overview](#project-overview)
-> - [Team Information](#team-information)
-> - [Executive Summary](#executive-summary)
-> - [Problem Statement \& Research](#problem-statement--research)
-> 	- [Problem Statement](#problem-statement)
-> 	- [Research Questions](#research-questions)
-> - [Project Scope \& Deliverables](#project-scope--deliverables)
-> - [Technology \& Implementation](#technology--implementation)
-> 	- [Technology Stack](#technology-stack)
-> 	- [Implementation Plan](#implementation-plan)
-> 	- [Market Strategy](#market-strategy)
-> - [Key Features](#key-features)
-> - [Project Status \& Feedback](#project-status--feedback)
-> - [Project Artifacts](#project-artifacts)
-> - [Action Items \& Progress](#action-items--progress)
-> - [Potential Risks \& Challenges](#potential-risks--challenges)
-> - [Resources \& References](#resources--references)
-> - [Project Development Journey](#project-development-journey)
-> 	- [Initial Concept Development (November 3, 2023)](#initial-concept-development-november-3-2023)
-> 	- [Project Theme Refinement (November 9, 2023)](#project-theme-refinement-november-9-2023)
-> 	- [Advisor Consultation Insights (December 15, 2023)](#advisor-consultation-insights-december-15-2023)
+# NutriGenius
+
+> [!IMPORTANT] 
+> **DISCLAIMER**: This project is a proof of concept demonstration for Bangkit Academy capstone project only. Due to lack of healthcare-specific datasets, the model training utilizes abstraction with generic data types. The application is not intended for actual healthcare use and should not be used for medical decisions. All features demonstrated are for educational purposes only.
 
 ## Project Overview
 
@@ -56,23 +36,40 @@ Our comprehensive project plan focuses on three key Learning Paths, each playing
 3. **Cloud Computing**: 
    In our cloud computing setup, we implement a solid backend API model. Private APIs manage secure login processing and monitoring, while external endpoint APIs supply national data on toddlers and children. The core of our cloud architecture relies on Cloud Storage, Cloud SQL, and Compute Engine with a dedicated external IP address. To facilitate efficient data transfer between the backend and mobile apps, we've employed the MQTT communication mechanism. For user convenience, a straightforward dashboard is implemented to monitor service availability, logging, and housekeeping.
 
-By putting these plans into action, we're combining different paths to come up with a creative solution. It's all about using technology in a compassionate way to look out for the well-being of Indonesian children. This is a big step forward in tackling childhood stunting.
+## Implementation Progress
+
+Based on the implementation folder structure, here is the current progress of the NutriGenius project:
+
+### Overall Project Implementation: 65% Complete
+
+#### Machine Learning Component:
+- [x] Model architecture planning
+- [x] Data preprocessing framework
+- [X] Abstraction model development
+
+#### Android Application:
+- [x] UI/UX mockup design
+- [x] Core architecture setup
+- [x] Authentication flow
+- [x] Food scanning interface
+
+#### Cloud Computing Infrastructure:
+- [x] Cloud architecture design
+- [x] API endpoint setup
+- [x] Database schema creation
+
+#### Integration:
+- [ ] ML model integration with mobile app
+- [ ] Cloud services connection with mobile app
+- [ ] End-to-end system testing
 
 ## Problem Statement & Research
 
 ### Problem Statement
 
-Stunting is a significant nutritional problem in Indonesia, with approximately 27.7% of toddlers affected as of 2019. This places Indonesia fourth globally in stunting cases. Stunting has long-term negative impacts on:
-- Human rights and welfare
-- Economic development due to inadequate human resources
-- Indonesia's international reputation
+Stunting is a significant nutritional problem in Indonesia, with approximately 27.7% of toddlers affected as of 2019. This places Indonesia fourth globally in stunting cases. Stunting has long-term negative impacts on human rights, welfare, economic development, and Indonesia's international reputation.
 
-Based on research data from the Ministry of Health, before the emergence of the COVID-19 pandemic, around 6.3 million toddlers out of Indonesia's total toddler population of 23 million experienced stunting. The prevalence of stunted toddlers in Indonesia in 2019 reached 27.7%. This puts Indonesia in fourth place globally as the country with the highest cases of stunting.
-
-Reasons for addressing this issue:
-- If left unchecked for a long time, Indonesia will indirectly ignore human rights in terms of the welfare of its people.
-- Stunting will have an impact on the country's economic progress due to inadequate human resources.
-- Indonesia has the potential to get a bad reputation in the international world, which is correlated with stunting cases which are still high.
+Based on research from the Ministry of Health, before COVID-19, around 6.3 million toddlers out of Indonesia's 23 million total toddler population experienced stunting.
 
 ### Research Questions
 
@@ -133,13 +130,6 @@ Reasons for addressing this issue:
 - Kaggle Datasets (training data)
 - GitHub (version control)
 
-**Machine Learning Progress**:
-- [ ] Algorithm Selection
-- [ ] Data Preprocessing
-- [ ] Feature Engineering
-- [ ] Hyperparameter Tuning
-- [ ] Validation
-
 **Mobile Development**:
 - Android Studio (primary IDE)
 - Networking (Retrofit/FAN)
@@ -181,37 +171,30 @@ We had to use dummy data because finding a suitable dataset proved challenging, 
 
 ## Key Features
 
-1. **Nutrition Monitoring**: Provides regular monitoring of children's nutritional status. Parents or caregivers can enter data such as the child's age, weight, height, and nutritional condition. This application will provide visual reports that are easy to understand, such as a graph of a child's growth over time.
-2. **Recommendations Feature**: Provides recommendations for balanced menus and nutritious food recipes according to the nutritional status data entered. Users can also obtain information regarding the urgency of certain nutritional intake for children's optimal growth.
-3. **Nutrition Education**: Provides health articles and educational information about nutrition to help inspire parents to understand their children's nutritional needs.
-4. **Food Scanning**: Provides food photo-taking services using cellphone cameras. The application will automatically identify types of food and provide an overview of their nutritional composition, making it easier for users to make wise decisions regarding their child's growth and development.
+1. **Nutrition Monitoring**: Provides regular monitoring of children's nutritional status with visual reports of growth over time.
+2. **Recommendations Feature**: Provides balanced menu suggestions and nutritious food recipes based on the child's nutritional status.
+3. **Nutrition Education**: Offers health articles and educational information about nutrition.
+4. **Food Scanning**: Identifies food types via smartphone camera and provides nutritional composition information.
 5. **Expert Consultation**: Connect with nutrition experts for personalized advice.
 
-Our group feels that these features are still rarely found in other product prototypes. The hope is that the features described above will maximize the real reduction in stunting in Indonesia.
+These features aim to maximize the reduction of stunting in Indonesia through an approach not commonly found in other product prototypes.
 
 ## Project Status & Feedback
 
-**Current Status**: 65% Completed
-
-The delay is primarily due to challenges in implementing the design of the Android application, stemming from limited competence and manpower in the mobile development team. However, noteworthy progress has been made with the mock UI, feature determination for the application along with the conceptual implementation plan for these features and Cloud/API configuration. Similarly, the machine learning component, especially in the scanning feature, has yet to be implemented, further influencing the current status of the project.
-
-**Implementation Changes**:
-The capstone project has followed the original plan exactly, without deviation. However, the current reality is that only 65% of progress has been made, underscoring the challenges posed by limited competence and manpower in both mobile development and machine learning. This completion status highlights the crucial features that remain pending and the need for additional resources to fulfill the project's goals. Despite these hurdles, the commitment to the initial vision remains steadfast.
-
 **Mentoring Remarks**:
-Strategize to boost user numbers, focusing on a compelling branding strategy to elevate the project's appeal. Implement targeted marketing campaigns to effectively communicate its value. Highlighting the benefits of integrating machine learning will be key to capturing the interest of potential users. This approach aims to not only attract a broader audience but also solidify the project's impact and success.
+Strategize to boost user numbers, focusing on a compelling branding strategy to elevate the project's appeal. Implement targeted marketing campaigns to effectively communicate its value. Highlighting the benefits of integrating machine learning will be key to capturing the interest of potential users.
 
-## Action Items & Progress
+## Development Roadmap
 
-- [x] Research applications with similar functionality
-- [ ] Develop machine learning features for stunting prevention
-- [ ] Demonstrate machine learning benefits in the project
-- [ ] Create a user-friendly application with valuable features
-- [ ] Increase user adoption
-- [ ] Secure partnerships and funding
-- [ ] Plan phased development starting with core features
-- [ ] Create compelling branding
-- [ ] Implement marketing strategy
+- Research applications with similar functionality
+- Develop machine learning features for stunting prevention
+- Demonstrate machine learning benefits in the project
+- Create a user-friendly application with valuable features
+- Increase user adoption
+- Secure partnerships and funding
+- Plan phased development starting with core features
+- Create compelling branding
+- Implement marketing strategy
 
 ## Potential Risks & Challenges
 
@@ -235,23 +218,10 @@ Strategize to boost user numbers, focusing on a compelling branding strategy to 
 This section highlights key takeaways from team meetings and advisor consultations that shaped the NutriGenius project.
 
 ### Initial Concept Development (November 3, 2023)
-In our first team meeting, we:
-- Established the initial focus on food accessibility and monitoring
-- Conceptualized a system to monitor quality and pricing of essential food items
-- Set up a collaborative research framework to explore product-based project topics
-- Emphasized the importance of mutual support and open communication
-- Planned to use Notion for project monitoring and task management
+In our first team meeting, we established the initial focus on food accessibility and monitoring, and set up a collaborative research framework to explore product-based project topics.
 
 ### Project Theme Refinement (November 9, 2023)
-During our second team meeting, we:
-- Explored various project themes including waste management and textile fabrics
-- Considered developing an application for product information (pricing, origin, suppliers)
-- Pivoted toward nutrition monitoring for children and infants with a specific focus on toddlers
-- Identified key ML parameters needed:
-  - Nutritional Adequacy Rate (AKG) data for toddlers
-  - Nutritional content in food commodities
-  - Android-based application platform
-  - Allergen information for sensitive toddlers
+During our second team meeting, we pivoted toward nutrition monitoring for children and infants with a specific focus on toddlers, and identified key ML parameters needed.
 
 ### Advisor Consultation Insights (December 15, 2023)
 Our advisor consultation provided critical guidance:
